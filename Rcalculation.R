@@ -1,0 +1,6 @@
+aawdt<- read.csv('/Users/lukezhang/Programming/trafficseattleapi/downtownaawdt.csv',head=TRUE)
+colnames(aawdt) <- c("aawdt")
+summary(aawdt)
+notdowntownaawdt<- read.csv('/Users/lukezhang/Programming/trafficseattleapi/notdowntownaawdt.csv',head=TRUE)
+colnames(notdowntownaawdt) <- c("aawdt")
+summary(notdowntownaawdt)

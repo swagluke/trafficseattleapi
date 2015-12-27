@@ -1,0 +1,812 @@
+[{"aawdt":"22200.0","downtown":false,"stname":"N 45TH ST","year":"2009.0"}
+,{"aawdt":"9500.0","downtown":false,"stname":"NE 80TH ST","year":"2009.0"}
+,{"aawdt":"30200.0","downtown":true,"stname":"DENNY WAY","year":"2009.0"}
+,{"aawdt":"7600.0","downtown":false,"stname":"E ALOHA ST","year":"2009.0"}
+,{"aawdt":"6300.0","downtown":false,"stname":"51ST AVE S","year":"2009.0"}
+,{"aawdt":"10300.0","downtown":false,"stname":"24TH AVE NW","year":"2009.0"}
+,{"aawdt":"13100.0","downtown":false,"stname":"10TH AVE E","year":"2009.0"}
+,{"aawdt":"29500.0","downtown":false,"stname":"NE NORTHGATE WAY","year":"2009.0"}
+,{"aawdt":"33400.0","downtown":true,"stname":"JAMES ST","year":"2009.0"}
+,{"aawdt":"8500.0","downtown":false,"stname":"NW 80TH ST","year":"2009.0"}
+,{"aawdt":"36700.0","downtown":false,"stname":"AURORA AVE N","year":"2009.0"}
+,{"aawdt":"23800.0","downtown":false,"stname":"4TH AVE S","year":"2009.0"}
+,{"aawdt":"16700.0","downtown":false,"stname":"AIRPORT WAY S","year":"2009.0"}
+,{"aawdt":"38500.0","downtown":false,"stname":"15TH AVE W","year":"2009.0"}
+,{"aawdt":"6800.0","downtown":false,"stname":"S LUCILE ST","year":"2009.0"}
+,{"aawdt":"24000.0","downtown":true,"stname":"DENNY WAY","year":"2009.0"}
+,{"aawdt":"8000.0","downtown":false,"stname":"E YESLER WAY","year":"2009.0"}
+,{"aawdt":"21300.0","downtown":true,"stname":"BOREN AVE","year":"2009.0"}
+,{"aawdt":"13400.0","downtown":false,"stname":"DELRIDGE WAY SW","year":"2009.0"}
+,{"aawdt":"16500.0","downtown":false,"stname":"FAUNTLEROY WAY SW","year":"2009.0"}
+,{"aawdt":"12200.0","downtown":false,"stname":"QUEEN ANNE AVE N","year":"2009.0"}
+,{"aawdt":"8100.0","downtown":false,"stname":"14TH AVE","year":"2009.0"}
+,{"aawdt":"16700.0","downtown":false,"stname":"NE 75TH ST","year":"2009.0"}
+,{"aawdt":"7300.0","downtown":true,"stname":"7TH AVE","year":"2009.0"}
+,{"aawdt":"36900.0","downtown":false,"stname":"NE 45TH ST","year":"2009.0"}
+,{"aawdt":"24500.0","downtown":false,"stname":"N 46TH ST","year":"2009.0"}
+,{"aawdt":"7900.0","downtown":false,"stname":"N 65TH ST","year":"2009.0"}
+,{"aawdt":"7400.0","downtown":false,"stname":"SW MORGAN ST","year":"2009.0"}
+,{"aawdt":"8000.0","downtown":false,"stname":"E CHERRY ST","year":"2009.0"}
+,{"aawdt":"9800.0","downtown":false,"stname":"S GENESEE ST","year":"2009.0"}
+,{"aawdt":"23700.0","downtown":false,"stname":"N 85TH ST","year":"2009.0"}
+,{"aawdt":"17000.0","downtown":false,"stname":"MAGNOLIA BR","year":"2009.0"}
+,{"aawdt":"11400.0","downtown":false,"stname":"AIRPORT WAY S","year":"2009.0"}
+,{"aawdt":"23100.0","downtown":true,"stname":"MADISON ST","year":"2009.0"}
+,{"aawdt":"26200.0","downtown":false,"stname":"NE 50TH ST","year":"2009.0"}
+,{"aawdt":"11900.0","downtown":false,"stname":"GREENWOOD AVE N","year":"2009.0"}
+,{"aawdt":"11900.0","downtown":true,"stname":"E PINE ST","year":"2009.0"}
+,{"aawdt":"22100.0","downtown":false,"stname":"GREENWOOD AVE N","year":"2009.0"}
+,{"aawdt":"18500.0","downtown":false,"stname":"ROOSEVELT WAY NE","year":"2009.0"}
+,{"aawdt":"5300.0","downtown":false,"stname":"1ST AVE NE","year":"2009.0"}
+,{"aawdt":"5700.0","downtown":false,"stname":"FAUNTLEROY FERRY DOCK","year":"2009.0"}
+,{"aawdt":"24100.0","downtown":false,"stname":"N 145TH ST","year":"2009.0"}
+,{"aawdt":"12200.0","downtown":true,"stname":"E PIKE ST","year":"2009.0"}
+,{"aawdt":"15100.0","downtown":false,"stname":"35TH AVE NE","year":"2009.0"}
+,{"aawdt":"4800.0","downtown":true,"stname":"7TH AVE","year":"2009.0"}
+,{"aawdt":"11000.0","downtown":false,"stname":"FAUNTLEROY WAY SW","year":"2009.0"}
+,{"aawdt":"14100.0","downtown":false,"stname":"1ST AVE S","year":"2009.0"}
+,{"aawdt":"6000.0","downtown":false,"stname":"NE 55TH ST","year":"2009.0"}
+,{"aawdt":"10200.0","downtown":true,"stname":"1ST AVE S","year":"2009.0"}
+,{"aawdt":"25500.0","downtown":false,"stname":"NE 45TH ST","year":"2009.0"}
+,{"aawdt":"30100.0","downtown":false,"stname":"RAINIER AVE S","year":"2009.0"}
+,{"aawdt":"11700.0","downtown":false,"stname":"1ST AVE S","year":"2009.0"}
+,{"aawdt":"17100.0","downtown":false,"stname":"EAST GREEN LAKE WAY N","year":"2009.0"}
+,{"aawdt":"12100.0","downtown":true,"stname":"2ND AVE","year":"2009.0"}
+,{"aawdt":"4200.0","downtown":false,"stname":"32ND AVE NW","year":"2009.0"}
+,{"aawdt":"12300.0","downtown":false,"stname":"12TH AVE","year":"2009.0"}
+,{"aawdt":"11700.0","downtown":false,"stname":"NE 65TH ST","year":"2009.0"}
+,{"aawdt":"12200.0","downtown":false,"stname":"GREENWOOD AVE N","year":"2009.0"}
+,{"aawdt":"5900.0","downtown":false,"stname":"5TH AVE NE","year":"2009.0"}
+,{"aawdt":"44000.0","downtown":false,"stname":"ELLIOTT AVE W","year":"2009.0"}
+,{"aawdt":"25400.0","downtown":false,"stname":"1ST AVE S","year":"2009.0"}
+,{"aawdt":"2800.0","downtown":false,"stname":"SEAVIEW AVE NW","year":"2009.0"}
+,{"aawdt":"35400.0","downtown":false,"stname":"LAKE CITY WAY NE","year":"2009.0"}
+,{"aawdt":"6900.0","downtown":true,"stname":"3RD AVE","year":"2009.0"}
+,{"aawdt":"23000.0","downtown":false,"stname":"N 105TH ST","year":"2009.0"}
+,{"aawdt":"8900.0","downtown":false,"stname":"12TH AVE NE","year":"2009.0"}
+,{"aawdt":"17000.0","downtown":false,"stname":"DELRIDGE WAY SW","year":"2009.0"}
+,{"aawdt":"15200.0","downtown":false,"stname":"15TH AVE NE","year":"2009.0"}
+,{"aawdt":"31000.0","downtown":false,"stname":"15TH AVE NW","year":"2009.0"}
+,{"aawdt":"24600.0","downtown":false,"stname":"WESTLAKE AVE N","year":"2009.0"}
+,{"aawdt":"11500.0","downtown":false,"stname":"N 40TH ST","year":"2009.0"}
+,{"aawdt":"21600.0","downtown":true,"stname":"1ST AVE","year":"2009.0"}
+,{"aawdt":"20100.0","downtown":false,"stname":"W EMERSON PL","year":"2009.0"}
+,{"aawdt":"17300.0","downtown":false,"stname":"LAKE WASHINGTON BLVD E","year":"2009.0"}
+,{"aawdt":"11700.0","downtown":false,"stname":"PHINNEY AVE N","year":"2009.0"}
+,{"aawdt":"17100.0","downtown":false,"stname":"BROADWAY","year":"2009.0"}
+,{"aawdt":"11400.0","downtown":false,"stname":"BEACON AVE S","year":"2009.0"}
+,{"aawdt":"57200.0","downtown":false,"stname":"BALLARD BR","year":"2009.0"}
+,{"aawdt":"12400.0","downtown":false,"stname":"EAST MARGINAL WAY S","year":"2009.0"}
+,{"aawdt":"20700.0","downtown":false,"stname":"S DEARBORN ST","year":"2009.0"}
+,{"aawdt":"15200.0","downtown":false,"stname":"NE 65TH ST","year":"2009.0"}
+,{"aawdt":"14900.0","downtown":false,"stname":"6TH AVE S","year":"2009.0"}
+,{"aawdt":"9700.0","downtown":false,"stname":"ALKI AVE SW","year":"2009.0"}
+,{"aawdt":"10800.0","downtown":true,"stname":"5TH AVE","year":"2009.0"}
+,{"aawdt":"5200.0","downtown":false,"year":"2009.0"}
+,{"aawdt":"89400.0","downtown":false,"stname":"1ST AV S BR NB","year":"2009.0"}
+,{"aawdt":"20100.0","downtown":false,"stname":"W EMERSON PL","year":"2009.0"}
+,{"aawdt":"14500.0","downtown":false,"stname":"NW 85TH ST","year":"2009.0"}
+,{"aawdt":"6300.0","downtown":false,"stname":"8TH AVE SW","year":"2009.0"}
+,{"aawdt":"35000.0","downtown":false,"stname":"RAINIER AVE S","year":"2009.0"}
+,{"aawdt":"22000.0","downtown":false,"stname":"4TH AVE S","year":"2009.0"}
+,{"aawdt":"10800.0","downtown":true,"stname":"ALASKAN WAY","year":"2009.0"}
+,{"aawdt":"8600.0","downtown":false,"stname":"PINEHURST WAY NE","year":"2009.0"}
+,{"aawdt":"20600.0","downtown":false,"stname":"35TH AVE SW","year":"2009.0"}
+,{"aawdt":"28500.0","downtown":false,"stname":"LEARY WAY NW","year":"2009.0"}
+,{"aawdt":"17400.0","downtown":true,"stname":"4TH AVE","year":"2009.0"}
+,{"aawdt":"40300.0","downtown":false,"stname":"NE 45TH ST","year":"2009.0"}
+,{"aawdt":"17800.0","downtown":false,"stname":"NE NORTHGATE WAY","year":"2009.0"}
+,{"aawdt":"25400.0","downtown":false,"stname":"SW ADMIRAL WAY","year":"2009.0"}
+,{"aawdt":"8200.0","downtown":false,"stname":"3RD AVE NW","year":"2009.0"}
+,{"aawdt":"11700.0","downtown":false,"stname":"ROOSEVELT WAY NE","year":"2009.0"}
+,{"aawdt":"3700.0","downtown":false,"stname":"28TH AVE W","year":"2009.0"}
+,{"aawdt":"23200.0","downtown":true,"stname":"DENNY WAY","year":"2009.0"}
+,{"aawdt":"14400.0","downtown":false,"stname":"EAST MARGINAL WAY S","year":"2009.0"}
+,{"aawdt":"16800.0","downtown":false,"stname":"WESTERN AV OFF RP","year":"2009.0"}
+,{"aawdt":"83700.0","downtown":false,"stname":"AURORA AVE N","year":"2009.0"}
+,{"aawdt":"21300.0","downtown":false,"stname":"RAINIER AVE S","year":"2009.0"}
+,{"aawdt":"12600.0","downtown":false,"stname":"N 130TH ST","year":"2009.0"}
+,{"aawdt":"10500.0","downtown":false,"stname":"15TH AVE NE","year":"2009.0"}
+,{"aawdt":"28400.0","downtown":false,"stname":"OLSON PL SW","year":"2009.0"}
+,{"aawdt":"4600.0","downtown":false,"stname":"31ST AVE S","year":"2009.0"}
+,{"aawdt":"15300.0","downtown":false,"stname":"WEST MARGINAL WAY SW","year":"2009.0"}
+,{"aawdt":"35500.0","downtown":false,"stname":"AURORA AVE N","year":"2009.0"}
+,{"aawdt":"11300.0","downtown":false,"stname":"RENTON AVE S","year":"2009.0"}
+,{"aawdt":"14100.0","downtown":false,"stname":"14TH AVE S","year":"2009.0"}
+,{"aawdt":"25100.0","downtown":false,"stname":"N 85TH ST","year":"2009.0"}
+,{"aawdt":"21100.0","downtown":false,"stname":"DELRIDGE WAY SW","year":"2009.0"}
+,{"aawdt":"12500.0","downtown":false,"stname":"8TH AVE NW","year":"2009.0"}
+,{"aawdt":"7900.0","downtown":true,"stname":"3RD AVE","year":"2009.0"}
+,{"aawdt":"9600.0","downtown":false,"stname":"FREMONT AVE N","year":"2009.0"}
+,{"aawdt":"14400.0","downtown":false,"stname":"STONE WAY N","year":"2009.0"}
+,{"aawdt":"12700.0","downtown":true,"stname":"5TH AVE","year":"2009.0"}
+,{"aawdt":"6700.0","downtown":false,"stname":"20TH AVE W","year":"2009.0"}
+,{"aawdt":"13400.0","downtown":false,"stname":"ALASKAN WY VI SB OFF RP","year":"2009.0"}
+,{"aawdt":"9200.0","downtown":false,"stname":"SW BARTON ST","year":"2009.0"}
+,{"aawdt":"13800.0","downtown":false,"stname":"SAND POINT WAY NE","year":"2009.0"}
+,{"aawdt":"8900.0","downtown":false,"stname":"E UNION ST","year":"2009.0"}
+,{"aawdt":"19600.0","downtown":false,"stname":"N 130TH ST","year":"2009.0"}
+,{"aawdt":"12200.0","downtown":false,"stname":"E JOHN ST","year":"2009.0"}
+,{"aawdt":"7500.0","downtown":false,"stname":"RENTON AVE S","year":"2009.0"}
+,{"aawdt":"9800.0","downtown":true,"stname":"COLUMBIA ST ON RP","year":"2009.0"}
+,{"aawdt":"23800.0","downtown":true,"stname":"DENNY WAY","year":"2009.0"}
+,{"aawdt":"17100.0","downtown":false,"stname":"5TH AVE NE","year":"2009.0"}
+,{"aawdt":"12600.0","downtown":false,"stname":"N 145TH ST","year":"2009.0"}
+,{"aawdt":"13800.0","downtown":false,"stname":"SW AVALON WAY","year":"2009.0"}
+,{"aawdt":"30500.0","downtown":true,"stname":"DENNY WAY","year":"2009.0"}
+,{"aawdt":"9100.0","downtown":false,"stname":"N 125TH ST","year":"2009.0"}
+,{"aawdt":"20500.0","downtown":false,"stname":"W DRAVUS ST","year":"2009.0"}
+,{"aawdt":"3400.0","downtown":true,"stname":"8TH AVE","year":"2009.0"}
+,{"aawdt":"7500.0","downtown":false,"stname":"12TH AVE E","year":"2009.0"}
+,{"aawdt":"9300.0","downtown":false,"stname":"11TH AVE NE","year":"2009.0"}
+,{"aawdt":"19400.0","downtown":false,"stname":"NE 75TH ST","year":"2009.0"}
+,{"aawdt":"58900.0","downtown":false,"stname":"MONTLAKE BR","year":"2009.0"}
+,{"aawdt":"25800.0","downtown":false,"stname":"4TH AVE S","year":"2009.0"}
+,{"aawdt":"89400.0","downtown":false,"stname":"1ST AV S BR NB","year":"2009.0"}
+,{"aawdt":"9700.0","downtown":false,"stname":"S JACKSON ST","year":"2009.0"}
+,{"aawdt":"7400.0","downtown":true,"stname":"6TH AVE","year":"2009.0"}
+,{"aawdt":"13800.0","downtown":false,"stname":"SAND POINT WAY NE","year":"2009.0"}
+,{"aawdt":"13600.0","downtown":false,"stname":"EAST GREEN LAKE DR N","year":"2009.0"}
+,{"aawdt":"21600.0","downtown":false,"stname":"NE 75TH ST","year":"2009.0"}
+,{"aawdt":"4000.0","downtown":false,"stname":"MERIDIAN AVE N","year":"2009.0"}
+,{"aawdt":"28700.0","downtown":false,"stname":"HOLMAN RD NW","year":"2009.0"}
+,{"aawdt":"4600.0","downtown":false,"stname":"BEACH DR SW","year":"2009.0"}
+,{"aawdt":"8600.0","downtown":false,"stname":"15TH AVE NE","year":"2009.0"}
+,{"aawdt":"13700.0","downtown":false,"stname":"E MADISON ST","year":"2009.0"}
+,{"aawdt":"18600.0","downtown":false,"stname":"RAINIER AVE S","year":"2009.0"}
+,{"aawdt":"22400.0","downtown":false,"stname":"E MADISON ST","year":"2009.0"}
+,{"aawdt":"25300.0","downtown":false,"stname":"15TH AVE S","year":"2009.0"}
+,{"aawdt":"12700.0","downtown":false,"stname":"5TH AVE NE","year":"2009.0"}
+,{"aawdt":"5800.0","downtown":false,"stname":"MYERS WAY S","year":"2009.0"}
+,{"aawdt":"22900.0","downtown":false,"stname":"NE 50TH ST","year":"2009.0"}
+,{"aawdt":"18300.0","downtown":false,"stname":"16TH AVE S","year":"2009.0"}
+,{"aawdt":"28600.0","downtown":false,"stname":"UNIVERSITY BR","year":"2009.0"}
+,{"aawdt":"6800.0","downtown":true,"stname":"WESTERN AVE","year":"2009.0"}
+,{"aawdt":"13500.0","downtown":false,"stname":"M L KING JR WAY","year":"2009.0"}
+,{"aawdt":"36300.0","downtown":false,"stname":"MERCER ST","year":"2009.0"}
+,{"aawdt":"15700.0","downtown":false,"stname":"SW ROXBURY ST","year":"2009.0"}
+,{"aawdt":"16000.0","downtown":false,"stname":"NE 125TH ST","year":"2009.0"}
+,{"aawdt":"47800.0","downtown":false,"stname":"MONTLAKE BLVD NE","year":"2009.0"}
+,{"aawdt":"8600.0","downtown":false,"stname":"S OTHELLO ST","year":"2009.0"}
+,{"aawdt":"37000.0","downtown":false,"stname":"S MICHIGAN ST","year":"2009.0"}
+,{"aawdt":"12200.0","downtown":false,"stname":"GILMAN AVE W","year":"2009.0"}
+,{"aawdt":"21500.0","downtown":false,"stname":"RAINIER AVE S","year":"2009.0"}
+,{"aawdt":"11400.0","downtown":false,"stname":"NE PACIFIC ST","year":"2009.0"}
+,{"aawdt":"7300.0","downtown":false,"stname":"S LUCILE ST","year":"2009.0"}
+,{"aawdt":"27300.0","downtown":false,"stname":"N NORTHGATE WAY","year":"2009.0"}
+,{"aawdt":"5900.0","downtown":false,"stname":"30TH AVE NE","year":"2009.0"}
+,{"aawdt":"24200.0","downtown":false,"stname":"NW MARKET ST","year":"2009.0"}
+,{"aawdt":"12900.0","downtown":false,"stname":"BEACON AVE S","year":"2009.0"}
+,{"aawdt":"12200.0","downtown":false,"stname":"S MYRTLE ST","year":"2009.0"}
+,{"aawdt":"15700.0","downtown":false,"stname":"S COLUMBIAN WAY","year":"2009.0"}
+,{"aawdt":"16300.0","downtown":false,"stname":"ELLIOTT AV ON RP","year":"2009.0"}
+,{"aawdt":"11600.0","downtown":false,"stname":"N 50TH ST","year":"2009.0"}
+,{"aawdt":"7200.0","downtown":false,"stname":"15TH AVE NE","year":"2009.0"}
+,{"aawdt":"2200.0","downtown":false,"stname":"8TH AVE S","year":"2009.0"}
+,{"aawdt":"11700.0","downtown":false,"stname":"25TH AVE NE","year":"2009.0"}
+,{"aawdt":"18600.0","downtown":false,"stname":"4TH AVE S","year":"2009.0"}
+,{"aawdt":"14800.0","downtown":true,"stname":"2ND AVE","year":"2009.0"}
+,{"aawdt":"15300.0","downtown":false,"stname":"35TH AVE NE","year":"2009.0"}
+,{"aawdt":"8300.0","downtown":false,"stname":"RENTON AVE S","year":"2009.0"}
+,{"aawdt":"11300.0","downtown":false,"stname":"ROOSEVELT WAY NE","year":"2009.0"}
+,{"aawdt":"10600.0","downtown":true,"stname":"SENECA ST OFF RP","year":"2009.0"}
+,{"aawdt":"40400.0","downtown":false,"stname":"VALLEY ST","year":"2009.0"}
+,{"aawdt":"10700.0","downtown":false,"stname":"NE 125TH ST","year":"2009.0"}
+,{"aawdt":"8700.0","downtown":false,"stname":"CORSON AVE S","year":"2009.0"}
+,{"aawdt":"13600.0","downtown":true,"stname":"4TH AVE","year":"2009.0"}
+,{"aawdt":"14900.0","downtown":false,"stname":"N 80TH ST","year":"2009.0"}
+,{"aawdt":"14400.0","downtown":false,"stname":"CALIFORNIA AVE SW","year":"2009.0"}
+,{"aawdt":"14900.0","downtown":false,"stname":"E MADISON ST","year":"2009.0"}
+,{"aawdt":"36600.0","downtown":false,"stname":"S COLUMBIAN WAY","year":"2009.0"}
+,{"aawdt":"7400.0","downtown":false,"stname":"S HOLGATE BR","year":"2009.0"}
+,{"aawdt":"10200.0","downtown":false,"stname":"ALASKAN WY VI NB ON RP","year":"2009.0"}
+,{"aawdt":"5000.0","downtown":false,"stname":"34TH AVE W","year":"2009.0"}
+,{"aawdt":"22800.0","downtown":false,"stname":"GREENWOOD AVE N","year":"2009.0"}
+,{"aawdt":"83700.0","downtown":false,"stname":"AURORA AVE N","year":"2009.0"}
+,{"aawdt":"13800.0","downtown":false,"stname":"S LANDER ST","year":"2009.0"}
+,{"aawdt":"12900.0","downtown":true,"stname":"6TH AVE","year":"2009.0"}
+,{"aawdt":"27400.0","downtown":false,"stname":"RAINIER AVE S","year":"2009.0"}
+,{"aawdt":"16100.0","downtown":false,"stname":"NE 65TH ST","year":"2009.0"}
+,{"aawdt":"12800.0","downtown":false,"stname":"15TH AVE NE","year":"2009.0"}
+,{"aawdt":"8300.0","downtown":false,"stname":"3RD AVE NW","year":"2009.0"}
+,{"aawdt":"81700.0","downtown":false,"stname":"AURORA BR","year":"2009.0"}
+,{"aawdt":"30300.0","downtown":false,"stname":"NE 145TH ST","year":"2009.0"}
+,{"aawdt":"18600.0","downtown":false,"stname":"25TH AVE NE","year":"2009.0"}
+,{"aawdt":"8000.0","downtown":false,"stname":"SWIFT AVE S","year":"2009.0"}
+,{"aawdt":"15100.0","downtown":false,"stname":"EASTLAKE AVE E","year":"2009.0"}
+,{"aawdt":"4900.0","downtown":false,"stname":"16TH AVE SW","year":"2009.0"}
+,{"aawdt":"25300.0","downtown":false,"stname":"CORSON AVE S","year":"2009.0"}
+,{"aawdt":"15100.0","downtown":true,"stname":"1ST AVE","year":"2009.0"}
+,{"aawdt":"20500.0","downtown":false,"stname":"24TH AVE E","year":"2009.0"}
+,{"aawdt":"35400.0","downtown":false,"stname":"LAKE CITY WAY NE","year":"2009.0"}
+,{"aawdt":"8800.0","downtown":false,"stname":"SW 106TH ST","year":"2009.0"}
+,{"aawdt":"6500.0","downtown":false,"stname":"M L KING JR WAY E","year":"2009.0"}
+,{"aawdt":"37300.0","downtown":false,"stname":"LAKE CITY WAY NE","year":"2009.0"}
+,{"aawdt":"19200.0","downtown":false,"stname":"12TH AVE S","year":"2009.0"}
+,{"aawdt":"9700.0","downtown":true,"stname":"WESTERN AVE","year":"2009.0"}
+,{"aawdt":"9400.0","downtown":false,"stname":"ELLIS AVE S","year":"2009.0"}
+,{"aawdt":"22000.0","downtown":false,"stname":"NICKERSON ST","year":"2009.0"}
+,{"aawdt":"15600.0","downtown":false,"stname":"35TH AVE SW","year":"2009.0"}
+,{"aawdt":"12700.0","downtown":true,"stname":"ALASKAN WAY S","year":"2009.0"}
+,{"aawdt":"20200.0","downtown":false,"stname":"BOREN AVE","year":"2009.0"}
+,{"aawdt":"13500.0","downtown":false,"stname":"CALIFORNIA AVE SW","year":"2009.0"}
+,{"aawdt":"18500.0","downtown":false,"stname":"STEWART ST RAMP","year":"2009.0"}
+,{"aawdt":"2500.0","downtown":false,"stname":"PIKE RAMP","year":"2009.0"}
+,{"aawdt":"8300.0","downtown":false,"stname":"UNIVERSITY ST ON RAMP","year":"2009.0"}
+,{"aawdt":"10800.0","downtown":false,"stname":"JAMES ST OFF RAMP","year":"2009.0"}
+,{"aawdt":"16600.0","downtown":false,"stname":"YALE ST ON RAMP","year":"2009.0"}
+,{"aawdt":"9700.0","downtown":false,"stname":"OLIVE WAY OFF RAMP","year":"2009.0"}
+,{"aawdt":"16700.0","downtown":false,"stname":"COLUMBIA ST OFF RAMP","year":"2009.0"}
+,{"aawdt":"12200.0","downtown":false,"stname":"SENECA ST OFF RAMP","year":"2009.0"}
+,{"aawdt":"16100.0","downtown":false,"stname":"SPRING ST ON RAMP","year":"2009.0"}
+,{"aawdt":"9600.0","downtown":false,"stname":"UNION ST OFF RAMP","year":"2009.0"}
+,{"aawdt":"20500.0","downtown":false,"stname":"JAMES ST ON RAMP SB","year":"2009.0"}
+,{"aawdt":"11200.0","downtown":false,"stname":"CHERRY ST ON RAMP NB","year":"2009.0"}
+,{"aawdt":"15800.0","downtown":false,"stname":"MADISON ST OFF RAMP","year":"2009.0"}
+,{"aawdt":"3700.0","downtown":false,"stname":"CHERRY ST REV RAMP","year":"2009.0"}
+,{"aawdt":"6800.0","downtown":true,"stname":"WESTERN AVE","year":"2009.0"}
+,{"aawdt":"12300.0","downtown":true,"stname":"ALASKAN WAY","year":"2009.0"}
+,{"aawdt":"37400.0","downtown":false,"stname":"SR99 FY","year":"2009.0"}
+,{"aawdt":"57000.0","downtown":false,"stname":"SR509 NB","year":"2009.0"}
+,{"aawdt":"64600.0","downtown":false,"stname":"ALASKAN WY VI NB & SB","year":"2009.0"}
+,{"aawdt":"86700.0","downtown":false,"stname":"ALASKAN WY VI NB & SB","year":"2009.0"}
+,{"aawdt":"72600.0","downtown":false,"stname":"WEST SEATTLE BR EB & WB","year":"2009.0"}
+,{"aawdt":"94500.0","downtown":false,"stname":"WEST SEATTLE BR EB & WB","year":"2009.0"}
+,{"aawdt":"44100.0","downtown":false,"stname":"WEST SEATTLE BR EB & WB","year":"2009.0"}
+,{"aawdt":"23600.0","downtown":false,"stname":"35TH AVE SW","year":"2009.0"}
+,{"aawdt":"28800.0","downtown":false,"stname":"FREMONT BR","year":"2009.0"}
+,{"aawdt":"62600.0","downtown":false,"stname":"BATTERY ST TUNNEL NB & SB","year":"2009.0"}
+,{"aawdt":"110300.0","downtown":false,"stname":"ALASKAN WY VI NB & SB","year":"2009.0"}
+,{"aawdt":"21600.0","downtown":false,"stname":"M L KING JR WAY S","year":"2009.0"}
+,{"aawdt":"28100.0","downtown":false,"stname":"M L KING JR WAY S","year":"2009.0"}
+,{"aawdt":"10300.0","downtown":false,"stname":"S HENDERSON ST","year":"2009.0"}
+,{"aawdt":"10900.0","downtown":false,"stname":"S GRAHAM ST","year":"2009.0"}
+,{"aawdt":"29600.0","downtown":false,"stname":"RAINIER AVE S","year":"2009.0"}
+,{"aawdt":"14100.0","downtown":false,"stname":"S JACKSON ST","year":"2009.0"}
+,{"aawdt":"18800.0","downtown":false,"stname":"ML KING JR BLVD S NB & SB","year":"2009.0"}
+,{"aawdt":"23800.0","downtown":false,"stname":"M L KING JR WAY S NB & SB","year":"2009.0"}
+,{"aawdt":"36600.0","downtown":false,"stname":"S COLUMBIAN WAY","year":"2009.0"}
+,{"aawdt":"17800.0","downtown":false,"stname":"NORTHGATE WAY W/O 15TH AVE NE","year":"2009.0"}
+,{"aawdt":"9600.0","downtown":false,"stname":"ROOSEVELT WAY NE","year":"2009.0"}
+,{"aawdt":"26000.0","downtown":true,"stname":"MELROSE AVE ON RAMP","year":"2009.0"}
+,{"aawdt":"22300.0","downtown":false,"stname":"N 45TH ST","year":"2008.0"}
+,{"aawdt":"9500.0","downtown":false,"stname":"NE 80TH ST","year":"2008.0"}
+,{"aawdt":"31100.0","downtown":true,"stname":"DENNY WAY","year":"2008.0"}
+,{"aawdt":"7800.0","downtown":false,"stname":"E ALOHA ST","year":"2008.0"}
+,{"aawdt":"6400.0","downtown":false,"stname":"51ST AVE S","year":"2008.0"}
+,{"aawdt":"10600.0","downtown":false,"stname":"24TH AVE NW","year":"2008.0"}
+,{"aawdt":"13800.0","downtown":false,"stname":"10TH AVE E","year":"2008.0"}
+,{"aawdt":"32000.0","downtown":false,"stname":"NE NORTHGATE WAY","year":"2008.0"}
+,{"aawdt":"31900.0","downtown":true,"stname":"JAMES ST","year":"2008.0"}
+,{"aawdt":"8600.0","downtown":false,"stname":"NW 80TH ST","year":"2008.0"}
+,{"aawdt":"35200.0","downtown":false,"stname":"AURORA AVE N","year":"2008.0"}
+,{"aawdt":"29400.0","downtown":false,"stname":"4TH AVE S","year":"2008.0"}
+,{"aawdt":"17000.0","downtown":false,"stname":"AIRPORT WAY S","year":"2008.0"}
+,{"aawdt":"43100.0","downtown":false,"stname":"15TH AVE W","year":"2008.0"}
+,{"aawdt":"6000.0","downtown":false,"stname":"S LUCILE ST","year":"2008.0"}
+,{"aawdt":"26700.0","downtown":true,"stname":"DENNY WAY","year":"2008.0"}
+,{"aawdt":"8600.0","downtown":false,"stname":"E YESLER WAY","year":"2008.0"}
+,{"aawdt":"20400.0","downtown":true,"stname":"BOREN AVE","year":"2008.0"}
+,{"aawdt":"13600.0","downtown":false,"stname":"DELRIDGE WAY SW","year":"2008.0"}
+,{"aawdt":"17300.0","downtown":false,"stname":"FAUNTLEROY WAY SW","year":"2008.0"}
+,{"aawdt":"11600.0","downtown":false,"stname":"QUEEN ANNE AVE N","year":"2008.0"}
+,{"aawdt":"7700.0","downtown":false,"stname":"14TH AVE","year":"2008.0"}
+,{"aawdt":"14700.0","downtown":false,"stname":"NE 75TH ST","year":"2008.0"}
+,{"aawdt":"8400.0","downtown":true,"stname":"7TH AVE","year":"2008.0"}
+,{"aawdt":"36700.0","downtown":false,"stname":"NE 45TH ST","year":"2008.0"}
+,{"aawdt":"24700.0","downtown":false,"stname":"N 46TH ST","year":"2008.0"}
+,{"aawdt":"8800.0","downtown":false,"stname":"N 65TH ST","year":"2008.0"}
+,{"aawdt":"6800.0","downtown":false,"stname":"SW MORGAN ST","year":"2008.0"}
+,{"aawdt":"8200.0","downtown":false,"stname":"E CHERRY ST","year":"2008.0"}
+,{"aawdt":"10200.0","downtown":false,"stname":"S GENESEE ST","year":"2008.0"}
+,{"aawdt":"24400.0","downtown":false,"stname":"N 85TH ST","year":"2008.0"}
+,{"aawdt":"17500.0","downtown":false,"stname":"MAGNOLIA BR","year":"2008.0"}
+,{"aawdt":"12700.0","downtown":false,"stname":"AIRPORT WAY S","year":"2008.0"}
+,{"aawdt":"20600.0","downtown":true,"stname":"MADISON ST","year":"2008.0"}
+,{"aawdt":"27000.0","downtown":false,"stname":"NE 50TH ST","year":"2008.0"}
+,{"aawdt":"12600.0","downtown":false,"stname":"GREENWOOD AVE N","year":"2008.0"}
+,{"aawdt":"12500.0","downtown":true,"stname":"E PINE ST","year":"2008.0"}
+,{"aawdt":"22900.0","downtown":false,"stname":"GREENWOOD AVE N","year":"2008.0"}
+,{"aawdt":"19700.0","downtown":false,"stname":"ROOSEVELT WAY NE","year":"2008.0"}
+,{"aawdt":"5300.0","downtown":false,"stname":"1ST AVE NE","year":"2008.0"}
+,{"aawdt":"6100.0","downtown":false,"stname":"FAUNTLEROY FERRY DOCK","year":"2008.0"}
+,{"aawdt":"24400.0","downtown":false,"stname":"N 145TH ST","year":"2008.0"}
+,{"aawdt":"12200.0","downtown":true,"stname":"E PIKE ST","year":"2008.0"}
+,{"aawdt":"13600.0","downtown":false,"stname":"35TH AVE NE","year":"2008.0"}
+,{"aawdt":"4800.0","downtown":true,"stname":"7TH AVE","year":"2008.0"}
+,{"aawdt":"10600.0","downtown":false,"stname":"FAUNTLEROY WAY SW","year":"2008.0"}
+,{"aawdt":"17400.0","downtown":false,"stname":"1ST AVE S","year":"2008.0"}
+,{"aawdt":"5700.0","downtown":false,"stname":"NE 55TH ST","year":"2008.0"}
+,{"aawdt":"11900.0","downtown":true,"stname":"1ST AVE S","year":"2008.0"}
+,{"aawdt":"26300.0","downtown":false,"stname":"NE 45TH ST","year":"2008.0"}
+,{"aawdt":"29600.0","downtown":false,"stname":"RAINIER AVE S","year":"2008.0"}
+,{"aawdt":"13600.0","downtown":false,"stname":"1ST AVE S","year":"2008.0"}
+,{"aawdt":"16900.0","downtown":false,"stname":"EAST GREEN LAKE WAY N","year":"2008.0"}
+,{"aawdt":"11900.0","downtown":true,"stname":"2ND AVE","year":"2008.0"}
+,{"aawdt":"5000.0","downtown":false,"stname":"32ND AVE NW","year":"2008.0"}
+,{"aawdt":"13100.0","downtown":false,"stname":"12TH AVE","year":"2008.0"}
+,{"aawdt":"11800.0","downtown":false,"stname":"NE 65TH ST","year":"2008.0"}
+,{"aawdt":"12000.0","downtown":false,"stname":"GREENWOOD AVE N","year":"2008.0"}
+,{"aawdt":"6000.0","downtown":false,"stname":"5TH AVE NE","year":"2008.0"}
+,{"aawdt":"47700.0","downtown":false,"stname":"ELLIOTT AVE W","year":"2008.0"}
+,{"aawdt":"25000.0","downtown":false,"stname":"1ST AVE S","year":"2008.0"}
+,{"aawdt":"3000.0","downtown":false,"stname":"SEAVIEW AVE NW","year":"2008.0"}
+,{"aawdt":"35300.0","downtown":false,"stname":"LAKE CITY WAY NE","year":"2008.0"}
+,{"aawdt":"7100.0","downtown":true,"stname":"3RD AVE","year":"2008.0"}
+,{"aawdt":"22200.0","downtown":false,"stname":"N 105TH ST","year":"2008.0"}
+,{"aawdt":"8700.0","downtown":false,"stname":"12TH AVE NE","year":"2008.0"}
+,{"aawdt":"17100.0","downtown":false,"stname":"DELRIDGE WAY SW","year":"2008.0"}
+,{"aawdt":"15200.0","downtown":false,"stname":"15TH AVE NE","year":"2008.0"}
+,{"aawdt":"30600.0","downtown":false,"stname":"15TH AVE NW","year":"2008.0"}
+,{"aawdt":"26800.0","downtown":false,"stname":"WESTLAKE AVE N","year":"2008.0"}
+,{"aawdt":"12500.0","downtown":false,"stname":"N 40TH ST","year":"2008.0"}
+,{"aawdt":"21300.0","downtown":true,"stname":"1ST AVE","year":"2008.0"}
+,{"aawdt":"20400.0","downtown":false,"stname":"W EMERSON PL","year":"2008.0"}
+,{"aawdt":"17700.0","downtown":false,"stname":"LAKE WASHINGTON BLVD E","year":"2008.0"}
+,{"aawdt":"11500.0","downtown":false,"stname":"PHINNEY AVE N","year":"2008.0"}
+,{"aawdt":"15800.0","downtown":false,"stname":"BROADWAY","year":"2008.0"}
+,{"aawdt":"10600.0","downtown":false,"stname":"BEACON AVE S","year":"2008.0"}
+,{"aawdt":"5900.0","downtown":false,"stname":"BALLARD BR","year":"2008.0"}
+,{"aawdt":"15900.0","downtown":false,"stname":"EAST MARGINAL WAY S","year":"2008.0"}
+,{"aawdt":"20700.0","downtown":false,"stname":"S DEARBORN ST","year":"2008.0"}
+,{"aawdt":"14700.0","downtown":false,"stname":"NE 65TH ST","year":"2008.0"}
+,{"aawdt":"14900.0","downtown":false,"stname":"6TH AVE S","year":"2008.0"}
+,{"aawdt":"7100.0","downtown":false,"stname":"ALKI AVE SW","year":"2008.0"}
+,{"aawdt":"11600.0","downtown":true,"stname":"5TH AVE","year":"2008.0"}
+,{"aawdt":"5800.0","downtown":false,"year":"2008.0"}
+,{"aawdt":"86100.0","downtown":false,"stname":"1ST AV S BR NB","year":"2008.0"}
+,{"aawdt":"20400.0","downtown":false,"stname":"W EMERSON PL","year":"2008.0"}
+,{"aawdt":"13600.0","downtown":false,"stname":"NW 85TH ST","year":"2008.0"}
+,{"aawdt":"6600.0","downtown":false,"stname":"8TH AVE SW","year":"2008.0"}
+,{"aawdt":"36700.0","downtown":false,"stname":"RAINIER AVE S","year":"2008.0"}
+,{"aawdt":"21700.0","downtown":false,"stname":"4TH AVE S","year":"2008.0"}
+,{"aawdt":"11700.0","downtown":true,"stname":"ALASKAN WAY","year":"2008.0"}
+,{"aawdt":"8900.0","downtown":false,"stname":"PINEHURST WAY NE","year":"2008.0"}
+,{"aawdt":"22400.0","downtown":false,"stname":"35TH AVE SW","year":"2008.0"}
+,{"aawdt":"29900.0","downtown":false,"stname":"LEARY WAY NW","year":"2008.0"}
+,{"aawdt":"19300.0","downtown":true,"stname":"4TH AVE","year":"2008.0"}
+,{"aawdt":"39800.0","downtown":false,"stname":"NE 45TH ST","year":"2008.0"}
+,{"aawdt":"18600.0","downtown":false,"stname":"NE NORTHGATE WAY","year":"2008.0"}
+,{"aawdt":"25600.0","downtown":false,"stname":"SW ADMIRAL WAY","year":"2008.0"}
+,{"aawdt":"8700.0","downtown":false,"stname":"3RD AVE NW","year":"2008.0"}
+,{"aawdt":"11800.0","downtown":false,"stname":"ROOSEVELT WAY NE","year":"2008.0"}
+,{"aawdt":"4000.0","downtown":false,"stname":"28TH AVE W","year":"2008.0"}
+,{"aawdt":"24100.0","downtown":true,"stname":"DENNY WAY","year":"2008.0"}
+,{"aawdt":"12200.0","downtown":false,"stname":"EAST MARGINAL WAY S","year":"2008.0"}
+,{"aawdt":"16000.0","downtown":false,"stname":"WESTERN AV OFF RP","year":"2008.0"}
+,{"aawdt":"85300.0","downtown":false,"stname":"AURORA AVE N","year":"2008.0"}
+,{"aawdt":"21500.0","downtown":false,"stname":"RAINIER AVE S","year":"2008.0"}
+,{"aawdt":"13100.0","downtown":false,"stname":"N 130TH ST","year":"2008.0"}
+,{"aawdt":"9900.0","downtown":false,"stname":"15TH AVE NE","year":"2008.0"}
+,{"aawdt":"28700.0","downtown":false,"stname":"OLSON PL SW","year":"2008.0"}
+,{"aawdt":"4500.0","downtown":false,"stname":"31ST AVE S","year":"2008.0"}
+,{"aawdt":"15400.0","downtown":false,"stname":"WEST MARGINAL WAY SW","year":"2008.0"}
+,{"aawdt":"35000.0","downtown":false,"stname":"AURORA AVE N","year":"2008.0"}
+,{"aawdt":"9100.0","downtown":false,"stname":"RENTON AVE S","year":"2008.0"}
+,{"aawdt":"17800.0","downtown":false,"stname":"14TH AVE S","year":"2008.0"}
+,{"aawdt":"25200.0","downtown":false,"stname":"N 85TH ST","year":"2008.0"}
+,{"aawdt":"20200.0","downtown":false,"stname":"DELRIDGE WAY SW","year":"2008.0"}
+,{"aawdt":"12800.0","downtown":false,"stname":"8TH AVE NW","year":"2008.0"}
+,{"aawdt":"8500.0","downtown":true,"stname":"3RD AVE","year":"2008.0"}
+,{"aawdt":"10400.0","downtown":false,"stname":"FREMONT AVE N","year":"2008.0"}
+,{"aawdt":"15200.0","downtown":false,"stname":"STONE WAY N","year":"2008.0"}
+,{"aawdt":"12700.0","downtown":true,"stname":"5TH AVE","year":"2008.0"}
+,{"aawdt":"7000.0","downtown":false,"stname":"20TH AVE W","year":"2008.0"}
+,{"aawdt":"12800.0","downtown":false,"stname":"ALASKAN WY VI SB OFF RP","year":"2008.0"}
+,{"aawdt":"9100.0","downtown":false,"stname":"SW BARTON ST","year":"2008.0"}
+,{"aawdt":"13200.0","downtown":false,"stname":"SAND POINT WAY NE","year":"2008.0"}
+,{"aawdt":"9000.0","downtown":false,"stname":"E UNION ST","year":"2008.0"}
+,{"aawdt":"19400.0","downtown":false,"stname":"N 130TH ST","year":"2008.0"}
+,{"aawdt":"14500.0","downtown":false,"stname":"E JOHN ST","year":"2008.0"}
+,{"aawdt":"7200.0","downtown":false,"stname":"RENTON AVE S","year":"2008.0"}
+,{"aawdt":"8700.0","downtown":true,"stname":"COLUMBIA ST ON RP","year":"2008.0"}
+,{"aawdt":"22500.0","downtown":true,"stname":"DENNY WAY","year":"2008.0"}
+,{"aawdt":"17300.0","downtown":false,"stname":"5TH AVE NE","year":"2008.0"}
+,{"aawdt":"12500.0","downtown":false,"stname":"N 145TH ST","year":"2008.0"}
+,{"aawdt":"12500.0","downtown":false,"stname":"SW AVALON WAY","year":"2008.0"}
+,{"aawdt":"30700.0","downtown":true,"stname":"DENNY WAY","year":"2008.0"}
+,{"aawdt":"9400.0","downtown":false,"stname":"N 125TH ST","year":"2008.0"}
+,{"aawdt":"20900.0","downtown":false,"stname":"W DRAVUS ST","year":"2008.0"}
+,{"aawdt":"4100.0","downtown":true,"stname":"8TH AVE","year":"2008.0"}
+,{"aawdt":"8400.0","downtown":false,"stname":"12TH AVE E","year":"2008.0"}
+,{"aawdt":"10100.0","downtown":false,"stname":"11TH AVE NE","year":"2008.0"}
+,{"aawdt":"19000.0","downtown":false,"stname":"NE 75TH ST","year":"2008.0"}
+,{"aawdt":"57100.0","downtown":false,"stname":"MONTLAKE BR","year":"2008.0"}
+,{"aawdt":"24000.0","downtown":false,"stname":"4TH AVE S","year":"2008.0"}
+,{"aawdt":"86100.0","downtown":false,"stname":"1ST AV S BR NB","year":"2008.0"}
+,{"aawdt":"12500.0","downtown":false,"stname":"S JACKSON ST","year":"2008.0"}
+,{"aawdt":"8000.0","downtown":true,"stname":"6TH AVE","year":"2008.0"}
+,{"aawdt":"13200.0","downtown":false,"stname":"SAND POINT WAY NE","year":"2008.0"}
+,{"aawdt":"12800.0","downtown":false,"stname":"EAST GREEN LAKE DR N","year":"2008.0"}
+,{"aawdt":"19700.0","downtown":false,"stname":"NE 75TH ST","year":"2008.0"}
+,{"aawdt":"4900.0","downtown":false,"stname":"MERIDIAN AVE N","year":"2008.0"}
+,{"aawdt":"28100.0","downtown":false,"stname":"HOLMAN RD NW","year":"2008.0"}
+,{"aawdt":"4600.0","downtown":false,"stname":"BEACH DR SW","year":"2008.0"}
+,{"aawdt":"8600.0","downtown":false,"stname":"15TH AVE NE","year":"2008.0"}
+,{"aawdt":"14800.0","downtown":false,"stname":"E MADISON ST","year":"2008.0"}
+,{"aawdt":"18400.0","downtown":false,"stname":"RAINIER AVE S","year":"2008.0"}
+,{"aawdt":"22000.0","downtown":false,"stname":"E MADISON ST","year":"2008.0"}
+,{"aawdt":"27300.0","downtown":false,"stname":"15TH AVE S","year":"2008.0"}
+,{"aawdt":"13500.0","downtown":false,"stname":"5TH AVE NE","year":"2008.0"}
+,{"aawdt":"6100.0","downtown":false,"stname":"MYERS WAY S","year":"2008.0"}
+,{"aawdt":"21700.0","downtown":false,"stname":"NE 50TH ST","year":"2008.0"}
+,{"aawdt":"18100.0","downtown":false,"stname":"16TH AVE S","year":"2008.0"}
+,{"aawdt":"29200.0","downtown":false,"stname":"UNIVERSITY BR","year":"2008.0"}
+,{"aawdt":"7500.0","downtown":true,"stname":"WESTERN AVE","year":"2008.0"}
+,{"aawdt":"14300.0","downtown":false,"stname":"M L KING JR WAY","year":"2008.0"}
+,{"aawdt":"37700.0","downtown":false,"stname":"MERCER ST","year":"2008.0"}
+,{"aawdt":"15200.0","downtown":false,"stname":"SW ROXBURY ST","year":"2008.0"}
+,{"aawdt":"16200.0","downtown":false,"stname":"NE 125TH ST","year":"2008.0"}
+,{"aawdt":"46100.0","downtown":false,"stname":"MONTLAKE BLVD NE","year":"2008.0"}
+,{"aawdt":"8000.0","downtown":false,"stname":"S OTHELLO ST","year":"2008.0"}
+,{"aawdt":"36600.0","downtown":false,"stname":"S MICHIGAN ST","year":"2008.0"}
+,{"aawdt":"12100.0","downtown":false,"stname":"GILMAN AVE W","year":"2008.0"}
+,{"aawdt":"21700.0","downtown":false,"stname":"RAINIER AVE S","year":"2008.0"}
+,{"aawdt":"10800.0","downtown":false,"stname":"NE PACIFIC ST","year":"2008.0"}
+,{"aawdt":"7200.0","downtown":false,"stname":"S LUCILE ST","year":"2008.0"}
+,{"aawdt":"26700.0","downtown":false,"stname":"N NORTHGATE WAY","year":"2008.0"}
+,{"aawdt":"6300.0","downtown":false,"stname":"30TH AVE NE","year":"2008.0"}
+,{"aawdt":"24700.0","downtown":false,"stname":"NW MARKET ST","year":"2008.0"}
+,{"aawdt":"12400.0","downtown":false,"stname":"BEACON AVE S","year":"2008.0"}
+,{"aawdt":"12500.0","downtown":false,"stname":"S MYRTLE ST","year":"2008.0"}
+,{"aawdt":"15000.0","downtown":false,"stname":"S COLUMBIAN WAY","year":"2008.0"}
+,{"aawdt":"15500.0","downtown":false,"stname":"ELLIOTT AV ON RP","year":"2008.0"}
+,{"aawdt":"11900.0","downtown":false,"stname":"N 50TH ST","year":"2008.0"}
+,{"aawdt":"7600.0","downtown":false,"stname":"15TH AVE NE","year":"2008.0"}
+,{"aawdt":"2100.0","downtown":false,"stname":"8TH AVE S","year":"2008.0"}
+,{"aawdt":"11500.0","downtown":false,"stname":"25TH AVE NE","year":"2008.0"}
+,{"aawdt":"19100.0","downtown":false,"stname":"4TH AVE S","year":"2008.0"}
+,{"aawdt":"15200.0","downtown":true,"stname":"2ND AVE","year":"2008.0"}
+,{"aawdt":"14500.0","downtown":false,"stname":"35TH AVE NE","year":"2008.0"}
+,{"aawdt":"8700.0","downtown":false,"stname":"RENTON AVE S","year":"2008.0"}
+,{"aawdt":"11100.0","downtown":false,"stname":"ROOSEVELT WAY NE","year":"2008.0"}
+,{"aawdt":"10300.0","downtown":true,"stname":"SENECA ST OFF RP","year":"2008.0"}
+,{"aawdt":"41100.0","downtown":false,"stname":"VALLEY ST","year":"2008.0"}
+,{"aawdt":"10700.0","downtown":false,"stname":"NE 125TH ST","year":"2008.0"}
+,{"aawdt":"8500.0","downtown":false,"stname":"CORSON AVE S","year":"2008.0"}
+,{"aawdt":"13600.0","downtown":true,"stname":"4TH AVE","year":"2008.0"}
+,{"aawdt":"15000.0","downtown":false,"stname":"N 80TH ST","year":"2008.0"}
+,{"aawdt":"12400.0","downtown":false,"stname":"CALIFORNIA AVE SW","year":"2008.0"}
+,{"aawdt":"15800.0","downtown":false,"stname":"E MADISON ST","year":"2008.0"}
+,{"aawdt":"37700.0","downtown":false,"stname":"S COLUMBIAN WAY","year":"2008.0"}
+,{"aawdt":"7500.0","downtown":false,"stname":"S HOLGATE BR","year":"2008.0"}
+,{"aawdt":"12200.0","downtown":false,"stname":"ALASKAN WY VI NB ON RP","year":"2008.0"}
+,{"aawdt":"5100.0","downtown":false,"stname":"34TH AVE W","year":"2008.0"}
+,{"aawdt":"24800.0","downtown":false,"stname":"GREENWOOD AVE N","year":"2008.0"}
+,{"aawdt":"85300.0","downtown":false,"stname":"AURORA AVE N","year":"2008.0"}
+,{"aawdt":"12300.0","downtown":false,"stname":"S LANDER ST","year":"2008.0"}
+,{"aawdt":"13400.0","downtown":true,"stname":"6TH AVE","year":"2008.0"}
+,{"aawdt":"27300.0","downtown":false,"stname":"RAINIER AVE S","year":"2008.0"}
+,{"aawdt":"14100.0","downtown":false,"stname":"NE 65TH ST","year":"2008.0"}
+,{"aawdt":"12500.0","downtown":false,"stname":"15TH AVE NE","year":"2008.0"}
+,{"aawdt":"8100.0","downtown":false,"stname":"3RD AVE NW","year":"2008.0"}
+,{"aawdt":"83800.0","downtown":false,"stname":"AURORA BR","year":"2008.0"}
+,{"aawdt":"32000.0","downtown":false,"stname":"NE 145TH ST","year":"2008.0"}
+,{"aawdt":"18000.0","downtown":false,"stname":"25TH AVE NE","year":"2008.0"}
+,{"aawdt":"8500.0","downtown":false,"stname":"SWIFT AVE S","year":"2008.0"}
+,{"aawdt":"15400.0","downtown":false,"stname":"EASTLAKE AVE E","year":"2008.0"}
+,{"aawdt":"5300.0","downtown":false,"stname":"16TH AVE SW","year":"2008.0"}
+,{"aawdt":"25200.0","downtown":false,"stname":"CORSON AVE S","year":"2008.0"}
+,{"aawdt":"15500.0","downtown":true,"stname":"1ST AVE","year":"2008.0"}
+,{"aawdt":"19600.0","downtown":false,"stname":"24TH AVE E","year":"2008.0"}
+,{"aawdt":"35000.0","downtown":false,"stname":"LAKE CITY WAY NE","year":"2008.0"}
+,{"aawdt":"16000.0","downtown":false,"stname":"SW 106TH ST","year":"2008.0"}
+,{"aawdt":"7500.0","downtown":false,"stname":"M L KING JR WAY E","year":"2008.0"}
+,{"aawdt":"38400.0","downtown":false,"stname":"LAKE CITY WAY NE","year":"2008.0"}
+,{"aawdt":"18900.0","downtown":false,"stname":"12TH AVE S","year":"2008.0"}
+,{"aawdt":"10200.0","downtown":true,"stname":"WESTERN AVE","year":"2008.0"}
+,{"aawdt":"10500.0","downtown":false,"stname":"ELLIS AVE S","year":"2008.0"}
+,{"aawdt":"23700.0","downtown":false,"stname":"NICKERSON ST","year":"2008.0"}
+,{"aawdt":"16200.0","downtown":false,"stname":"35TH AVE SW","year":"2008.0"}
+,{"aawdt":"11800.0","downtown":true,"stname":"ALASKAN WAY S","year":"2008.0"}
+,{"aawdt":"18100.0","downtown":false,"stname":"BOREN AVE","year":"2008.0"}
+,{"aawdt":"13100.0","downtown":false,"stname":"CALIFORNIA AVE SW","year":"2008.0"}
+,{"aawdt":"20200.0","downtown":false,"stname":"STEWART ST RAMP","year":"2008.0"}
+,{"aawdt":"2600.0","downtown":false,"stname":"PIKE RAMP","year":"2008.0"}
+,{"aawdt":"8800.0","downtown":false,"stname":"UNIVERSITY ST ON RAMP","year":"2008.0"}
+,{"aawdt":"12100.0","downtown":false,"stname":"JAMES ST OFF RAMP","year":"2008.0"}
+,{"aawdt":"17400.0","downtown":false,"stname":"YALE ST ON RAMP","year":"2008.0"}
+,{"aawdt":"10900.0","downtown":false,"stname":"OLIVE WAY OFF RAMP","year":"2008.0"}
+,{"aawdt":"17400.0","downtown":false,"stname":"COLUMBIA ST OFF RAMP","year":"2008.0"}
+,{"aawdt":"12000.0","downtown":false,"stname":"SENECA ST OFF RAMP","year":"2008.0"}
+,{"aawdt":"16200.0","downtown":false,"stname":"SPRING ST ON RAMP","year":"2008.0"}
+,{"aawdt":"10000.0","downtown":false,"stname":"UNION ST OFF RAMP","year":"2008.0"}
+,{"aawdt":"20000.0","downtown":false,"stname":"JAMES ST ON RAMP SB","year":"2008.0"}
+,{"aawdt":"12700.0","downtown":false,"stname":"CHERRY ST ON RAMP NB","year":"2008.0"}
+,{"aawdt":"13300.0","downtown":false,"stname":"MADISON ST OFF RAMP","year":"2008.0"}
+,{"aawdt":"3700.0","downtown":false,"stname":"CHERRY ST REV RAMP","year":"2008.0"}
+,{"aawdt":"7500.0","downtown":true,"stname":"WESTERN AVE","year":"2008.0"}
+,{"aawdt":"12500.0","downtown":true,"stname":"ALASKAN WAY","year":"2008.0"}
+,{"aawdt":"37700.0","downtown":false,"stname":"SR99 FY","year":"2008.0"}
+,{"aawdt":"58600.0","downtown":false,"stname":"SR509 NB","year":"2008.0"}
+,{"aawdt":"63500.0","downtown":false,"stname":"ALASKAN WY VI NB & SB","year":"2008.0"}
+,{"aawdt":"84100.0","downtown":false,"stname":"ALASKAN WY VI NB & SB","year":"2008.0"}
+,{"aawdt":"82200.0","downtown":false,"stname":"WEST SEATTLE BR EB & WB","year":"2008.0"}
+,{"aawdt":"94100.0","downtown":false,"stname":"WEST SEATTLE BR EB & WB","year":"2008.0"}
+,{"aawdt":"42500.0","downtown":false,"stname":"WEST SEATTLE BR EB & WB","year":"2008.0"}
+,{"aawdt":"22400.0","downtown":false,"stname":"35TH AVE SW","year":"2008.0"}
+,{"aawdt":"26700.0","downtown":false,"stname":"FREMONT BR","year":"2008.0"}
+,{"aawdt":"63600.0","downtown":false,"stname":"BATTERY ST TUNNEL NB & SB","year":"2008.0"}
+,{"aawdt":"108200.0","downtown":false,"stname":"ALASKAN WY VI NB & SB","year":"2008.0"}
+,{"aawdt":"17900.0","downtown":false,"stname":"M L KING JR WAY S","year":"2008.0"}
+,{"aawdt":"25000.0","downtown":false,"stname":"M L KING JR WAY S","year":"2008.0"}
+,{"aawdt":"10000.0","downtown":false,"stname":"S HENDERSON ST","year":"2008.0"}
+,{"aawdt":"10600.0","downtown":false,"stname":"S GRAHAM ST","year":"2008.0"}
+,{"aawdt":"29900.0","downtown":false,"stname":"RAINIER AVE S","year":"2008.0"}
+,{"aawdt":"13900.0","downtown":false,"stname":"S JACKSON ST","year":"2008.0"}
+,{"aawdt":"18200.0","downtown":false,"stname":"ML KING JR BLVD S NB & SB","year":"2008.0"}
+,{"aawdt":"21800.0","downtown":false,"stname":"M L KING JR WAY S NB & SB","year":"2008.0"}
+,{"aawdt":"37700.0","downtown":false,"stname":"S COLUMBIAN WAY","year":"2008.0"}
+,{"aawdt":"18600.0","downtown":false,"stname":"NORTHGATE WAY W/O 15TH AVE NE","year":"2008.0"}
+,{"aawdt":"10300.0","downtown":false,"stname":"ROOSEVELT WAY NE","year":"2008.0"}
+,{"aawdt":"15200.0","downtown":true,"stname":"MELROSE AVE ON RAMP","year":"2008.0"}
+,{"aawdt":"20900.0","downtown":false,"stname":"N 45TH ST","year":"2007.0"}
+,{"aawdt":"9100.0","downtown":false,"stname":"NE 80TH ST","year":"2007.0"}
+,{"aawdt":"33077.0","downtown":true,"stname":"DENNY WAY","year":"2007.0"}
+,{"aawdt":"8800.0","downtown":false,"stname":"E ALOHA ST","year":"2007.0"}
+,{"aawdt":"6600.0","downtown":false,"stname":"51ST AVE S","year":"2007.0"}
+,{"aawdt":"10900.0","downtown":false,"stname":"24TH AVE NW","year":"2007.0"}
+,{"aawdt":"15300.0","downtown":false,"stname":"10TH AVE E","year":"2007.0"}
+,{"aawdt":"31100.0","downtown":false,"stname":"NE NORTHGATE WAY","year":"2007.0"}
+,{"aawdt":"35200.0","downtown":true,"stname":"JAMES ST","year":"2007.0"}
+,{"aawdt":"8500.0","downtown":false,"stname":"NW 80TH ST","year":"2007.0"}
+,{"aawdt":"37900.0","downtown":false,"stname":"AURORA AVE N","year":"2007.0"}
+,{"aawdt":"28800.0","downtown":false,"stname":"4TH AVE S","year":"2007.0"}
+,{"aawdt":"19100.0","downtown":false,"stname":"AIRPORT WAY S","year":"2007.0"}
+,{"aawdt":"43300.0","downtown":false,"stname":"15TH AVE W","year":"2007.0"}
+,{"aawdt":"6500.0","downtown":false,"stname":"S LUCILE ST","year":"2007.0"}
+,{"aawdt":"26700.0","downtown":true,"stname":"DENNY WAY","year":"2007.0"}
+,{"aawdt":"9300.0","downtown":false,"stname":"E YESLER WAY","year":"2007.0"}
+,{"aawdt":"22200.0","downtown":true,"stname":"BOREN AVE","year":"2007.0"}
+,{"aawdt":"13900.0","downtown":false,"stname":"DELRIDGE WAY SW","year":"2007.0"}
+,{"aawdt":"18700.0","downtown":false,"stname":"FAUNTLEROY WAY SW","year":"2007.0"}
+,{"aawdt":"11952.0","downtown":false,"stname":"QUEEN ANNE AVE N","year":"2007.0"}
+,{"aawdt":"8100.0","downtown":false,"stname":"14TH AVE","year":"2007.0"}
+,{"aawdt":"15600.0","downtown":false,"stname":"NE 75TH ST","year":"2007.0"}
+,{"aawdt":"7000.0","downtown":true,"stname":"7TH AVE","year":"2007.0"}
+,{"aawdt":"35200.0","downtown":false,"stname":"NE 45TH ST","year":"2007.0"}
+,{"aawdt":"24500.0","downtown":false,"stname":"N 46TH ST","year":"2007.0"}
+,{"aawdt":"8200.0","downtown":false,"stname":"N 65TH ST","year":"2007.0"}
+,{"aawdt":"6300.0","downtown":false,"stname":"SW MORGAN ST","year":"2007.0"}
+,{"aawdt":"8300.0","downtown":false,"stname":"E CHERRY ST","year":"2007.0"}
+,{"aawdt":"10600.0","downtown":false,"stname":"S GENESEE ST","year":"2007.0"}
+,{"aawdt":"24600.0","downtown":false,"stname":"N 85TH ST","year":"2007.0"}
+,{"aawdt":"19600.0","downtown":false,"stname":"MAGNOLIA BR","year":"2007.0"}
+,{"aawdt":"13100.0","downtown":false,"stname":"AIRPORT WAY S","year":"2007.0"}
+,{"aawdt":"23900.0","downtown":true,"stname":"MADISON ST","year":"2007.0"}
+,{"aawdt":"27000.0","downtown":false,"stname":"NE 50TH ST","year":"2007.0"}
+,{"aawdt":"13500.0","downtown":false,"stname":"GREENWOOD AVE N","year":"2007.0"}
+,{"aawdt":"11500.0","downtown":true,"stname":"E PINE ST","year":"2007.0"}
+,{"aawdt":"24000.0","downtown":false,"stname":"GREENWOOD AVE N","year":"2007.0"}
+,{"aawdt":"19300.0","downtown":false,"stname":"ROOSEVELT WAY NE","year":"2007.0"}
+,{"aawdt":"5300.0","downtown":false,"stname":"1ST AVE NE","year":"2007.0"}
+,{"aawdt":"6600.0","downtown":false,"stname":"FAUNTLEROY FERRY DOCK","year":"2007.0"}
+,{"aawdt":"25700.0","downtown":false,"stname":"N 145TH ST","year":"2007.0"}
+,{"aawdt":"11500.0","downtown":true,"stname":"E PIKE ST","year":"2007.0"}
+,{"aawdt":"14900.0","downtown":false,"stname":"35TH AVE NE","year":"2007.0"}
+,{"aawdt":"5100.0","downtown":true,"stname":"7TH AVE","year":"2007.0"}
+,{"aawdt":"11600.0","downtown":false,"stname":"FAUNTLEROY WAY SW","year":"2007.0"}
+,{"aawdt":"16500.0","downtown":false,"stname":"1ST AVE S","year":"2007.0"}
+,{"aawdt":"6200.0","downtown":false,"stname":"NE 55TH ST","year":"2007.0"}
+,{"aawdt":"12100.0","downtown":true,"stname":"1ST AVE S","year":"2007.0"}
+,{"aawdt":"26300.0","downtown":false,"stname":"NE 45TH ST","year":"2007.0"}
+,{"aawdt":"29000.0","downtown":false,"stname":"RAINIER AVE S","year":"2007.0"}
+,{"aawdt":"14500.0","downtown":false,"stname":"1ST AVE S","year":"2007.0"}
+,{"aawdt":"17320.0","downtown":false,"stname":"EAST GREEN LAKE WAY N","year":"2007.0"}
+,{"aawdt":"12400.0","downtown":true,"stname":"2ND AVE","year":"2007.0"}
+,{"aawdt":"4500.0","downtown":false,"stname":"32ND AVE NW","year":"2007.0"}
+,{"aawdt":"12900.0","downtown":false,"stname":"12TH AVE","year":"2007.0"}
+,{"aawdt":"11900.0","downtown":false,"stname":"NE 65TH ST","year":"2007.0"}
+,{"aawdt":"12100.0","downtown":false,"stname":"GREENWOOD AVE N","year":"2007.0"}
+,{"aawdt":"6000.0","downtown":false,"stname":"5TH AVE NE","year":"2007.0"}
+,{"aawdt":"48000.0","downtown":false,"stname":"ELLIOTT AVE W","year":"2007.0"}
+,{"aawdt":"25500.0","downtown":false,"stname":"1ST AVE S","year":"2007.0"}
+,{"aawdt":"3300.0","downtown":false,"stname":"SEAVIEW AVE NW","year":"2007.0"}
+,{"aawdt":"36300.0","downtown":false,"stname":"LAKE CITY WAY NE","year":"2007.0"}
+,{"aawdt":"8700.0","downtown":true,"stname":"3RD AVE","year":"2007.0"}
+,{"aawdt":"23400.0","downtown":false,"stname":"N 105TH ST","year":"2007.0"}
+,{"aawdt":"8800.0","downtown":false,"stname":"12TH AVE NE","year":"2007.0"}
+,{"aawdt":"16700.0","downtown":false,"stname":"DELRIDGE WAY SW","year":"2007.0"}
+,{"aawdt":"15500.0","downtown":false,"stname":"15TH AVE NE","year":"2007.0"}
+,{"aawdt":"32900.0","downtown":false,"stname":"15TH AVE NW","year":"2007.0"}
+,{"aawdt":"26300.0","downtown":false,"stname":"WESTLAKE AVE N","year":"2007.0"}
+,{"aawdt":"12700.0","downtown":false,"stname":"N 40TH ST","year":"2007.0"}
+,{"aawdt":"22300.0","downtown":true,"stname":"1ST AVE","year":"2007.0"}
+,{"aawdt":"21700.0","downtown":false,"stname":"W EMERSON PL","year":"2007.0"}
+,{"aawdt":"20200.0","downtown":false,"stname":"LAKE WASHINGTON BLVD E","year":"2007.0"}
+,{"aawdt":"11800.0","downtown":false,"stname":"PHINNEY AVE N","year":"2007.0"}
+,{"aawdt":"18200.0","downtown":false,"stname":"BROADWAY","year":"2007.0"}
+,{"aawdt":"11100.0","downtown":false,"stname":"BEACON AVE S","year":"2007.0"}
+,{"aawdt":"57700.0","downtown":false,"stname":"BALLARD BR","year":"2007.0"}
+,{"aawdt":"13200.0","downtown":false,"stname":"EAST MARGINAL WAY S","year":"2007.0"}
+,{"aawdt":"21400.0","downtown":false,"stname":"S DEARBORN ST","year":"2007.0"}
+,{"aawdt":"15400.0","downtown":false,"stname":"NE 65TH ST","year":"2007.0"}
+,{"aawdt":"14200.0","downtown":false,"stname":"6TH AVE S","year":"2007.0"}
+,{"aawdt":"6900.0","downtown":false,"stname":"ALKI AVE SW","year":"2007.0"}
+,{"aawdt":"12900.0","downtown":true,"stname":"5TH AVE","year":"2007.0"}
+,{"aawdt":"5800.0","downtown":false,"year":"2007.0"}
+,{"aawdt":"88000.0","downtown":false,"stname":"1ST AV S BR NB","year":"2007.0"}
+,{"aawdt":"21700.0","downtown":false,"stname":"W EMERSON PL","year":"2007.0"}
+,{"aawdt":"15400.0","downtown":false,"stname":"NW 85TH ST","year":"2007.0"}
+,{"aawdt":"6400.0","downtown":false,"stname":"8TH AVE SW","year":"2007.0"}
+,{"aawdt":"38000.0","downtown":false,"stname":"RAINIER AVE S","year":"2007.0"}
+,{"aawdt":"22300.0","downtown":false,"stname":"4TH AVE S","year":"2007.0"}
+,{"aawdt":"12600.0","downtown":true,"stname":"ALASKAN WAY","year":"2007.0"}
+,{"aawdt":"9200.0","downtown":false,"stname":"PINEHURST WAY NE","year":"2007.0"}
+,{"aawdt":"21300.0","downtown":false,"stname":"35TH AVE SW","year":"2007.0"}
+,{"aawdt":"29600.0","downtown":false,"stname":"LEARY WAY NW","year":"2007.0"}
+,{"aawdt":"22000.0","downtown":true,"stname":"4TH AVE","year":"2007.0"}
+,{"aawdt":"31000.0","downtown":false,"stname":"NE 45TH ST","year":"2007.0"}
+,{"aawdt":"18000.0","downtown":false,"stname":"NE NORTHGATE WAY","year":"2007.0"}
+,{"aawdt":"26000.0","downtown":false,"stname":"SW ADMIRAL WAY","year":"2007.0"}
+,{"aawdt":"8500.0","downtown":false,"stname":"3RD AVE NW","year":"2007.0"}
+,{"aawdt":"11900.0","downtown":false,"stname":"ROOSEVELT WAY NE","year":"2007.0"}
+,{"aawdt":"4200.0","downtown":false,"stname":"28TH AVE W","year":"2007.0"}
+,{"aawdt":"23700.0","downtown":true,"stname":"DENNY WAY","year":"2007.0"}
+,{"aawdt":"17400.0","downtown":false,"stname":"EAST MARGINAL WAY S","year":"2007.0"}
+,{"aawdt":"16700.0","downtown":false,"stname":"WESTERN AV OFF RP","year":"2007.0"}
+,{"aawdt":"89500.0","downtown":false,"stname":"AURORA AVE N","year":"2007.0"}
+,{"aawdt":"23700.0","downtown":false,"stname":"RAINIER AVE S","year":"2007.0"}
+,{"aawdt":"13700.0","downtown":false,"stname":"N 130TH ST","year":"2007.0"}
+,{"aawdt":"11100.0","downtown":false,"stname":"15TH AVE NE","year":"2007.0"}
+,{"aawdt":"28300.0","downtown":false,"stname":"OLSON PL SW","year":"2007.0"}
+,{"aawdt":"4800.0","downtown":false,"stname":"31ST AVE S","year":"2007.0"}
+,{"aawdt":"16700.0","downtown":false,"stname":"WEST MARGINAL WAY SW","year":"2007.0"}
+,{"aawdt":"36300.0","downtown":false,"stname":"AURORA AVE N","year":"2007.0"}
+,{"aawdt":"12100.0","downtown":false,"stname":"RENTON AVE S","year":"2007.0"}
+,{"aawdt":"16700.0","downtown":false,"stname":"14TH AVE S","year":"2007.0"}
+,{"aawdt":"25840.0","downtown":false,"stname":"N 85TH ST","year":"2007.0"}
+,{"aawdt":"20200.0","downtown":false,"stname":"DELRIDGE WAY SW","year":"2007.0"}
+,{"aawdt":"12800.0","downtown":false,"stname":"8TH AVE NW","year":"2007.0"}
+,{"aawdt":"8400.0","downtown":true,"stname":"3RD AVE","year":"2007.0"}
+,{"aawdt":"10600.0","downtown":false,"stname":"FREMONT AVE N","year":"2007.0"}
+,{"aawdt":"16000.0","downtown":false,"stname":"STONE WAY N","year":"2007.0"}
+,{"aawdt":"14700.0","downtown":true,"stname":"5TH AVE","year":"2007.0"}
+,{"aawdt":"7500.0","downtown":false,"stname":"20TH AVE W","year":"2007.0"}
+,{"aawdt":"13100.0","downtown":false,"stname":"ALASKAN WY VI SB OFF RP","year":"2007.0"}
+,{"aawdt":"9000.0","downtown":false,"stname":"SW BARTON ST","year":"2007.0"}
+,{"aawdt":"13800.0","downtown":false,"stname":"SAND POINT WAY NE","year":"2007.0"}
+,{"aawdt":"10300.0","downtown":false,"stname":"E UNION ST","year":"2007.0"}
+,{"aawdt":"19500.0","downtown":false,"stname":"N 130TH ST","year":"2007.0"}
+,{"aawdt":"15200.0","downtown":false,"stname":"E JOHN ST","year":"2007.0"}
+,{"aawdt":"7200.0","downtown":false,"stname":"RENTON AVE S","year":"2007.0"}
+,{"aawdt":"9500.0","downtown":true,"stname":"COLUMBIA ST ON RP","year":"2007.0"}
+,{"aawdt":"26900.0","downtown":true,"stname":"DENNY WAY","year":"2007.0"}
+,{"aawdt":"17800.0","downtown":false,"stname":"5TH AVE NE","year":"2007.0"}
+,{"aawdt":"13600.0","downtown":false,"stname":"N 145TH ST","year":"2007.0"}
+,{"aawdt":"13000.0","downtown":false,"stname":"SW AVALON WAY","year":"2007.0"}
+,{"aawdt":"32600.0","downtown":true,"stname":"DENNY WAY","year":"2007.0"}
+,{"aawdt":"9000.0","downtown":false,"stname":"N 125TH ST","year":"2007.0"}
+,{"aawdt":"22700.0","downtown":false,"stname":"W DRAVUS ST","year":"2007.0"}
+,{"aawdt":"3900.0","downtown":true,"stname":"8TH AVE","year":"2007.0"}
+,{"aawdt":"9100.0","downtown":false,"stname":"12TH AVE E","year":"2007.0"}
+,{"aawdt":"10100.0","downtown":false,"stname":"11TH AVE NE","year":"2007.0"}
+,{"aawdt":"21100.0","downtown":false,"stname":"NE 75TH ST","year":"2007.0"}
+,{"aawdt":"57203.0","downtown":false,"stname":"MONTLAKE BR","year":"2007.0"}
+,{"aawdt":"26400.0","downtown":false,"stname":"4TH AVE S","year":"2007.0"}
+,{"aawdt":"88000.0","downtown":false,"stname":"1ST AV S BR NB","year":"2007.0"}
+,{"aawdt":"10800.0","downtown":false,"stname":"S JACKSON ST","year":"2007.0"}
+,{"aawdt":"8600.0","downtown":true,"stname":"6TH AVE","year":"2007.0"}
+,{"aawdt":"13800.0","downtown":false,"stname":"SAND POINT WAY NE","year":"2007.0"}
+,{"aawdt":"12900.0","downtown":false,"stname":"EAST GREEN LAKE DR N","year":"2007.0"}
+,{"aawdt":"21100.0","downtown":false,"stname":"NE 75TH ST","year":"2007.0"}
+,{"aawdt":"4800.0","downtown":false,"stname":"MERIDIAN AVE N","year":"2007.0"}
+,{"aawdt":"30300.0","downtown":false,"stname":"HOLMAN RD NW","year":"2007.0"}
+,{"aawdt":"4300.0","downtown":false,"stname":"BEACH DR SW","year":"2007.0"}
+,{"aawdt":"8900.0","downtown":false,"stname":"15TH AVE NE","year":"2007.0"}
+,{"aawdt":"14100.0","downtown":false,"stname":"E MADISON ST","year":"2007.0"}
+,{"aawdt":"20100.0","downtown":false,"stname":"RAINIER AVE S","year":"2007.0"}
+,{"aawdt":"22454.0","downtown":false,"stname":"E MADISON ST","year":"2007.0"}
+,{"aawdt":"26400.0","downtown":false,"stname":"15TH AVE S","year":"2007.0"}
+,{"aawdt":"13200.0","downtown":false,"stname":"5TH AVE NE","year":"2007.0"}
+,{"aawdt":"5800.0","downtown":false,"stname":"MYERS WAY S","year":"2007.0"}
+,{"aawdt":"22000.0","downtown":false,"stname":"NE 50TH ST","year":"2007.0"}
+,{"aawdt":"19400.0","downtown":false,"stname":"16TH AVE S","year":"2007.0"}
+,{"aawdt":"31595.0","downtown":false,"stname":"UNIVERSITY BR","year":"2007.0"}
+,{"aawdt":"7600.0","downtown":true,"stname":"WESTERN AVE","year":"2007.0"}
+,{"aawdt":"14600.0","downtown":false,"stname":"M L KING JR WAY","year":"2007.0"}
+,{"aawdt":"38200.0","downtown":false,"stname":"MERCER ST","year":"2007.0"}
+,{"aawdt":"14700.0","downtown":false,"stname":"SW ROXBURY ST","year":"2007.0"}
+,{"aawdt":"16700.0","downtown":false,"stname":"NE 125TH ST","year":"2007.0"}
+,{"aawdt":"46000.0","downtown":false,"stname":"MONTLAKE BLVD NE","year":"2007.0"}
+,{"aawdt":"9400.0","downtown":false,"stname":"S OTHELLO ST","year":"2007.0"}
+,{"aawdt":"33600.0","downtown":false,"stname":"S MICHIGAN ST","year":"2007.0"}
+,{"aawdt":"12900.0","downtown":false,"stname":"GILMAN AVE W","year":"2007.0"}
+,{"aawdt":"25031.0","downtown":false,"stname":"RAINIER AVE S","year":"2007.0"}
+,{"aawdt":"11300.0","downtown":false,"stname":"NE PACIFIC ST","year":"2007.0"}
+,{"aawdt":"7500.0","downtown":false,"stname":"S LUCILE ST","year":"2007.0"}
+,{"aawdt":"28300.0","downtown":false,"stname":"N NORTHGATE WAY","year":"2007.0"}
+,{"aawdt":"6400.0","downtown":false,"stname":"30TH AVE NE","year":"2007.0"}
+,{"aawdt":"24891.0","downtown":false,"stname":"NW MARKET ST","year":"2007.0"}
+,{"aawdt":"13600.0","downtown":false,"stname":"BEACON AVE S","year":"2007.0"}
+,{"aawdt":"13000.0","downtown":false,"stname":"S MYRTLE ST","year":"2007.0"}
+,{"aawdt":"17500.0","downtown":false,"stname":"S COLUMBIAN WAY","year":"2007.0"}
+,{"aawdt":"16800.0","downtown":false,"stname":"ELLIOTT AV ON RP","year":"2007.0"}
+,{"aawdt":"12400.0","downtown":false,"stname":"N 50TH ST","year":"2007.0"}
+,{"aawdt":"8000.0","downtown":false,"stname":"15TH AVE NE","year":"2007.0"}
+,{"aawdt":"1800.0","downtown":false,"stname":"8TH AVE S","year":"2007.0"}
+,{"aawdt":"12400.0","downtown":false,"stname":"25TH AVE NE","year":"2007.0"}
+,{"aawdt":"19400.0","downtown":false,"stname":"4TH AVE S","year":"2007.0"}
+,{"aawdt":"16100.0","downtown":true,"stname":"2ND AVE","year":"2007.0"}
+,{"aawdt":"15100.0","downtown":false,"stname":"35TH AVE NE","year":"2007.0"}
+,{"aawdt":"7200.0","downtown":false,"stname":"RENTON AVE S","year":"2007.0"}
+,{"aawdt":"11100.0","downtown":false,"stname":"ROOSEVELT WAY NE","year":"2007.0"}
+,{"aawdt":"10100.0","downtown":true,"stname":"SENECA ST OFF RP","year":"2007.0"}
+,{"aawdt":"38900.0","downtown":false,"stname":"VALLEY ST","year":"2007.0"}
+,{"aawdt":"11400.0","downtown":false,"stname":"NE 125TH ST","year":"2007.0"}
+,{"aawdt":"9000.0","downtown":false,"stname":"CORSON AVE S","year":"2007.0"}
+,{"aawdt":"14100.0","downtown":true,"stname":"4TH AVE","year":"2007.0"}
+,{"aawdt":"15500.0","downtown":false,"stname":"N 80TH ST","year":"2007.0"}
+,{"aawdt":"11600.0","downtown":false,"stname":"CALIFORNIA AVE SW","year":"2007.0"}
+,{"aawdt":"16400.0","downtown":false,"stname":"E MADISON ST","year":"2007.0"}
+,{"aawdt":"39600.0","downtown":false,"stname":"S COLUMBIAN WAY","year":"2007.0"}
+,{"aawdt":"7600.0","downtown":false,"stname":"S HOLGATE BR","year":"2007.0"}
+,{"aawdt":"10800.0","downtown":false,"stname":"ALASKAN WY VI NB ON RP","year":"2007.0"}
+,{"aawdt":"5600.0","downtown":false,"stname":"34TH AVE W","year":"2007.0"}
+,{"aawdt":"26100.0","downtown":false,"stname":"GREENWOOD AVE N","year":"2007.0"}
+,{"aawdt":"89500.0","downtown":false,"stname":"AURORA AVE N","year":"2007.0"}
+,{"aawdt":"12305.0","downtown":false,"stname":"S LANDER ST","year":"2007.0"}
+,{"aawdt":"14100.0","downtown":true,"stname":"6TH AVE","year":"2007.0"}
+,{"aawdt":"29900.0","downtown":false,"stname":"RAINIER AVE S","year":"2007.0"}
+,{"aawdt":"15200.0","downtown":false,"stname":"NE 65TH ST","year":"2007.0"}
+,{"aawdt":"16300.0","downtown":false,"stname":"15TH AVE NE","year":"2007.0"}
+,{"aawdt":"8300.0","downtown":false,"stname":"3RD AVE NW","year":"2007.0"}
+,{"aawdt":"87500.0","downtown":false,"stname":"AURORA BR","year":"2007.0"}
+,{"aawdt":"30500.0","downtown":false,"stname":"NE 145TH ST","year":"2007.0"}
+,{"aawdt":"16300.0","downtown":false,"stname":"25TH AVE NE","year":"2007.0"}
+,{"aawdt":"8700.0","downtown":false,"stname":"SWIFT AVE S","year":"2007.0"}
+,{"aawdt":"15800.0","downtown":false,"stname":"EASTLAKE AVE E","year":"2007.0"}
+,{"aawdt":"5100.0","downtown":false,"stname":"16TH AVE SW","year":"2007.0"}
+,{"aawdt":"24300.0","downtown":false,"stname":"CORSON AVE S","year":"2007.0"}
+,{"aawdt":"16700.0","downtown":true,"stname":"1ST AVE","year":"2007.0"}
+,{"aawdt":"21200.0","downtown":false,"stname":"24TH AVE E","year":"2007.0"}
+,{"aawdt":"36405.0","downtown":false,"stname":"LAKE CITY WAY NE","year":"2007.0"}
+,{"aawdt":"9600.0","downtown":false,"stname":"SW 106TH ST","year":"2007.0"}
+,{"aawdt":"7900.0","downtown":false,"stname":"M L KING JR WAY E","year":"2007.0"}
+,{"aawdt":"38900.0","downtown":false,"stname":"LAKE CITY WAY NE","year":"2007.0"}
+,{"aawdt":"18800.0","downtown":false,"stname":"12TH AVE S","year":"2007.0"}
+,{"aawdt":"11100.0","downtown":true,"stname":"WESTERN AVE","year":"2007.0"}
+,{"aawdt":"9900.0","downtown":false,"stname":"ELLIS AVE S","year":"2007.0"}
+,{"aawdt":"11800.0","downtown":false,"stname":"NICKERSON ST","year":"2007.0"}
+,{"aawdt":"16200.0","downtown":false,"stname":"35TH AVE SW","year":"2007.0"}
+,{"aawdt":"12900.0","downtown":true,"stname":"ALASKAN WAY S","year":"2007.0"}
+,{"aawdt":"20800.0","downtown":false,"stname":"BOREN AVE","year":"2007.0"}
+,{"aawdt":"13100.0","downtown":false,"stname":"CALIFORNIA AVE SW","year":"2007.0"}
+,{"aawdt":"20000.0","downtown":false,"stname":"STEWART ST RAMP","year":"2007.0"}
+,{"aawdt":"2700.0","downtown":false,"stname":"PIKE RAMP","year":"2007.0"}
+,{"aawdt":"8700.0","downtown":false,"stname":"UNIVERSITY ST ON RAMP","year":"2007.0"}
+,{"aawdt":"12300.0","downtown":false,"stname":"JAMES ST OFF RAMP","year":"2007.0"}
+,{"aawdt":"20900.0","downtown":false,"stname":"YALE ST ON RAMP","year":"2007.0"}
+,{"aawdt":"9700.0","downtown":false,"stname":"OLIVE WAY OFF RAMP","year":"2007.0"}
+,{"aawdt":"17200.0","downtown":false,"stname":"COLUMBIA ST OFF RAMP","year":"2007.0"}
+,{"aawdt":"12400.0","downtown":false,"stname":"SENECA ST OFF RAMP","year":"2007.0"}
+,{"aawdt":"16100.0","downtown":false,"stname":"SPRING ST ON RAMP","year":"2007.0"}
+,{"aawdt":"9800.0","downtown":false,"stname":"UNION ST OFF RAMP","year":"2007.0"}
+,{"aawdt":"20800.0","downtown":false,"stname":"JAMES ST ON RAMP SB","year":"2007.0"}
+,{"aawdt":"12400.0","downtown":false,"stname":"CHERRY ST ON RAMP NB","year":"2007.0"}
+,{"aawdt":"13400.0","downtown":false,"stname":"MADISON ST OFF RAMP","year":"2007.0"}
+,{"aawdt":"3900.0","downtown":false,"stname":"CHERRY ST REV RAMP","year":"2007.0"}
+,{"aawdt":"7600.0","downtown":true,"stname":"WESTERN AVE","year":"2007.0"}
+,{"aawdt":"14300.0","downtown":true,"stname":"ALASKAN WAY","year":"2007.0"}
+,{"aawdt":"39700.0","downtown":false,"stname":"SR99 FY","year":"2007.0"}
+,{"aawdt":"58700.0","downtown":false,"stname":"SR509 NB","year":"2007.0"}
+,{"aawdt":"54700.0","downtown":false,"stname":"ALASKAN WY VI NB & SB","year":"2007.0"}
+,{"aawdt":"86200.0","downtown":false,"stname":"ALASKAN WY VI NB & SB","year":"2007.0"}
+,{"aawdt":"66400.0","downtown":false,"stname":"WEST SEATTLE BR EB & WB","year":"2007.0"}
+,{"aawdt":"85100.0","downtown":false,"stname":"WEST SEATTLE BR EB & WB","year":"2007.0"}
+,{"aawdt":"44300.0","downtown":false,"stname":"WEST SEATTLE BR EB & WB","year":"2007.0"}
+,{"aawdt":"23300.0","downtown":false,"stname":"35TH AVE SW","year":"2007.0"}
+,{"aawdt":"66400.0","downtown":false,"stname":"BATTERY ST TUNNEL NB & SB","year":"2007.0"}
+,{"aawdt":"110100.0","downtown":false,"stname":"ALASKAN WY VI NB & SB","year":"2007.0"}
+,{"aawdt":"16800.0","downtown":false,"stname":"M L KING JR WAY S","year":"2007.0"}
+,{"aawdt":"19900.0","downtown":false,"stname":"M L KING JR WAY S","year":"2007.0"}
+,{"aawdt":"6800.0","downtown":false,"stname":"S HENDERSON ST","year":"2007.0"}
+,{"aawdt":"11300.0","downtown":false,"stname":"S GRAHAM ST","year":"2007.0"}
+,{"aawdt":"34700.0","downtown":false,"stname":"RAINIER AVE S","year":"2007.0"}
+,{"aawdt":"14600.0","downtown":false,"stname":"S JACKSON ST","year":"2007.0"}
+,{"aawdt":"14800.0","downtown":false,"stname":"ML KING JR BLVD S NB & SB","year":"2007.0"}
+,{"aawdt":"18700.0","downtown":false,"stname":"M L KING JR WAY S NB & SB","year":"2007.0"}
+,{"aawdt":"39600.0","downtown":false,"stname":"S COLUMBIAN WAY","year":"2007.0"}
+,{"aawdt":"18000.0","downtown":false,"stname":"NORTHGATE WAY W/O 15TH AVE NE","year":"2007.0"}
+,{"aawdt":"12400.0","downtown":false,"stname":"ROOSEVELT WAY NE","year":"2007.0"}
+,{"aawdt":"16000.0","downtown":true,"stname":"MELROSE AVE ON RAMP","year":"2007.0"}]

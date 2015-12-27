@@ -1,0 +1,242 @@
+markers = [{"aawdt":"22200.0","downtown":false,"stname":"N 45TH ST,Seattle,WA","lat":"47.6613850","lng":"-122.3426200"}
+,{"aawdt":"9500.0","downtown":false,"stname":"NE 80TH ST,Seattle,WA","lat":"47.6865460","lng":"-122.3039910"}
+,{"aawdt":"30200.0","downtown":true,"stname":"DENNY WAY,Seattle,WA","lat":"47.6185570","lng":"-122.3431810"}
+,{"aawdt":"7600.0","downtown":false,"stname":"E ALOHA ST,Seattle,WA","lat":"47.6268640","lng":"-122.3093030"}
+,{"aawdt":"6300.0","downtown":false,"stname":"51ST AVE S,Seattle,WA","lat":"47.5537210","lng":"-122.2697970"}
+,{"aawdt":"10300.0","downtown":false,"stname":"24TH AVE NW,Seattle,WA","lat":"47.6846570","lng":"-122.3875890"}
+,{"aawdt":"13100.0","downtown":false,"stname":"10TH AVE E,Seattle,WA","lat":"47.6327390","lng":"-122.3200640"}
+,{"aawdt":"29500.0","downtown":false,"stname":"NE NORTHGATE WAY,Seattle,WA","lat":"47.7085420","lng":"-122.3147200"}
+,{"aawdt":"33400.0","downtown":true,"stname":"JAMES ST,Seattle,WA","lat":"47.6046250","lng":"-122.3269740"}
+,{"aawdt":"8500.0","downtown":false,"stname":"NW 80TH ST,Seattle,WA","lat":"47.6868610","lng":"-122.3789410"}
+,{"aawdt":"36700.0","downtown":false,"stname":"AURORA AVE N,Seattle,WA","lat":"47.6981810","lng":"-122.3446000"}
+,{"aawdt":"23800.0","downtown":false,"stname":"4TH AVE S,Seattle,WA","lat":"47.6016390","lng":"-122.3289880"}
+,{"aawdt":"16700.0","downtown":false,"stname":"AIRPORT WAY S,Seattle,WA","lat":"47.5477100","lng":"-122.3142970"}
+,{"aawdt":"38500.0","downtown":false,"stname":"15TH AVE W,Seattle,WA","lat":"47.6459810","lng":"-122.3763210"}
+,{"aawdt":"6800.0","downtown":false,"stname":"S LUCILE ST,Seattle,WA","lat":"47.5523040","lng":"-122.3008470"}
+,{"aawdt":"24000.0","downtown":true,"stname":"DENNY WAY,Seattle,WA","lat":"47.6185570","lng":"-122.3431810"}
+,{"aawdt":"8000.0","downtown":false,"stname":"E YESLER WAY,Seattle,WA","lat":"47.6016700","lng":"-122.3044330"}
+,{"aawdt":"21300.0","downtown":true,"stname":"BOREN AVE,Seattle,WA","lat":"47.6102930","lng":"-122.3260930"}
+,{"aawdt":"13400.0","downtown":false,"stname":"DELRIDGE WAY SW,Seattle,WA","lat":"47.5444630","lng":"-122.3613430"}
+,{"aawdt":"16500.0","downtown":false,"stname":"FAUNTLEROY WAY SW,Seattle,WA","lat":"47.5495550","lng":"-122.3830750"}
+,{"aawdt":"12200.0","downtown":false,"stname":"QUEEN ANNE AVE N,Seattle,WA","lat":"47.6345630","lng":"-122.3569810"}
+,{"aawdt":"8100.0","downtown":false,"stname":"14TH AVE,Seattle,WA","lat":"47.6103830","lng":"-122.3141400"}
+,{"aawdt":"16700.0","downtown":false,"stname":"NE 75TH ST,Seattle,WA","lat":"47.6830490","lng":"-122.2958440"}
+,{"aawdt":"7300.0","downtown":true,"stname":"7TH AVE,Seattle,WA","lat":"47.6074800","lng":"-122.3295750"}
+,{"aawdt":"36900.0","downtown":false,"stname":"NE 45TH ST,Seattle,WA","lat":"47.6612570","lng":"-122.2986690"}
+,{"aawdt":"24500.0","downtown":false,"stname":"N 46TH ST,Seattle,WA","lat":"47.6621450","lng":"-122.3437850"}
+,{"aawdt":"7900.0","downtown":false,"stname":"N 65TH ST,Seattle,WA","lat":"47.6759110","lng":"-122.3474760"}
+,{"aawdt":"7400.0","downtown":false,"stname":"SW MORGAN ST,Seattle,WA","lat":"47.5446760","lng":"-122.3757290"}
+,{"aawdt":"8000.0","downtown":false,"stname":"E CHERRY ST,Seattle,WA","lat":"47.6080040","lng":"-122.3037250"}
+,{"aawdt":"9800.0","downtown":false,"stname":"S GENESEE ST,Seattle,WA","lat":"47.5641440","lng":"-122.2828040"}
+,{"aawdt":"23700.0","downtown":false,"stname":"N 85TH ST,Seattle,WA","lat":"47.6905550","lng":"-122.3437660"}
+,{"aawdt":"17000.0","downtown":false,"stname":"MAGNOLIA BR,Seattle,WA","lat":"47.6396300","lng":"-122.3996600"}
+,{"aawdt":"11400.0","downtown":false,"stname":"AIRPORT WAY S,Seattle,WA","lat":"47.5477100","lng":"-122.3142970"}
+,{"aawdt":"23100.0","downtown":true,"stname":"MADISON ST,Seattle,WA","lat":"47.6082400","lng":"-122.3277550"}
+,{"aawdt":"26200.0","downtown":false,"stname":"NE 50TH ST,Seattle,WA","lat":"47.6648870","lng":"-122.2956380"}
+,{"aawdt":"11900.0","downtown":false,"stname":"GREENWOOD AVE N,Seattle,WA","lat":"47.7150660","lng":"-122.3555320"}
+,{"aawdt":"11900.0","downtown":true,"stname":"E PINE ST,Seattle,WA","lat":"47.6152900","lng":"-122.3048920"}
+,{"aawdt":"22100.0","downtown":false,"stname":"GREENWOOD AVE N,Seattle,WA","lat":"47.7150660","lng":"-122.3555320"}
+,{"aawdt":"18500.0","downtown":false,"stname":"ROOSEVELT WAY NE,Seattle,WA","lat":"47.6912790","lng":"-122.3176140"}
+,{"aawdt":"5300.0","downtown":false,"stname":"1ST AVE NE,Seattle,WA","lat":"47.7158900","lng":"-122.3288390"}
+,{"aawdt":"5700.0","downtown":false,"stname":"FAUNTLEROY FERRY DOCK,Seattle,WA","lat":"47.5100680","lng":"-122.4638920"}
+,{"aawdt":"24100.0","downtown":false,"stname":"N 145TH ST,Seattle,WA","lat":"47.7340910","lng":"-122.3439950"}
+,{"aawdt":"12200.0","downtown":true,"stname":"E PIKE ST,Seattle,WA","lat":"47.6141060","lng":"-122.3078540"}
+,{"aawdt":"15100.0","downtown":false,"stname":"35TH AVE NE,Seattle,WA","lat":"47.7179320","lng":"-122.2912680"}
+,{"aawdt":"4800.0","downtown":true,"stname":"7TH AVE,Seattle,WA","lat":"47.6074800","lng":"-122.3295750"}
+,{"aawdt":"11000.0","downtown":false,"stname":"FAUNTLEROY WAY SW,Seattle,WA","lat":"47.5495550","lng":"-122.3830750"}
+,{"aawdt":"14100.0","downtown":false,"stname":"1ST AVE S,Seattle,WA","lat":"47.5049190","lng":"-122.3336480"}
+,{"aawdt":"6000.0","downtown":false,"stname":"NE 55TH ST,Seattle,WA","lat":"47.6685220","lng":"-122.2956300"}
+,{"aawdt":"10200.0","downtown":true,"stname":"1ST AVE S,Seattle,WA","lat":"47.5049190","lng":"-122.3336480"}
+,{"aawdt":"25500.0","downtown":false,"stname":"NE 45TH ST,Seattle,WA","lat":"47.6612570","lng":"-122.2986690"}
+,{"aawdt":"30100.0","downtown":false,"stname":"RAINIER AVE S,Seattle,WA","lat":"47.5448470","lng":"-122.2744970"}
+,{"aawdt":"11700.0","downtown":false,"stname":"1ST AVE S,Seattle,WA","lat":"47.5049190","lng":"-122.3336480"}
+,{"aawdt":"17100.0","downtown":false,"stname":"EAST GREEN LAKE WAY N,Seattle,WA","lat":"47.6751480","lng":"-122.3337330"}
+,{"aawdt":"12100.0","downtown":true,"stname":"2ND AVE,Seattle,WA","lat":"47.6116180","lng":"-122.3415280"}
+,{"aawdt":"4200.0","downtown":false,"stname":"32ND AVE NW,Seattle,WA","lat":"47.6823520","lng":"-122.3984040"}
+,{"aawdt":"12300.0","downtown":false,"stname":"12TH AVE,Seattle,WA","lat":"47.6095450","lng":"-122.3167970"}
+,{"aawdt":"11700.0","downtown":false,"stname":"NE 65TH ST,Seattle,WA","lat":"47.6757900","lng":"-122.2876300"}
+,{"aawdt":"12200.0","downtown":false,"stname":"GREENWOOD AVE N,Seattle,WA","lat":"47.7150660","lng":"-122.3555320"}
+,{"aawdt":"5900.0","downtown":false,"stname":"5TH AVE NE,Seattle,WA","lat":"47.7156560","lng":"-122.3234840"}
+,{"aawdt":"44000.0","downtown":false,"stname":"ELLIOTT AVE W,Seattle,WA","lat":"47.6256390","lng":"-122.3670270"}
+,{"aawdt":"25400.0","downtown":false,"stname":"1ST AVE S,Seattle,WA","lat":"47.5049190","lng":"-122.3336480"}
+,{"aawdt":"2800.0","downtown":false,"stname":"SEAVIEW AVE NW,Seattle,WA","lat":"47.6791730","lng":"-122.4052320"}
+,{"aawdt":"35400.0","downtown":false,"stname":"LAKE CITY WAY NE,Seattle,WA","lat":"47.7074460","lng":"-122.3015660"}
+,{"aawdt":"6900.0","downtown":true,"stname":"3RD AVE,Seattle,WA","lat":"47.6107410","lng":"-122.3387030"}
+,{"aawdt":"23000.0","downtown":false,"stname":"N 105TH ST,Seattle,WA","lat":"47.7050170","lng":"-122.3451690"}
+,{"aawdt":"8900.0","downtown":false,"stname":"12TH AVE NE,Seattle,WA","lat":"47.7158100","lng":"-122.3153060"}
+,{"aawdt":"17000.0","downtown":false,"stname":"DELRIDGE WAY SW,Seattle,WA","lat":"47.5444630","lng":"-122.3613430"}
+,{"aawdt":"15200.0","downtown":false,"stname":"15TH AVE NE,Seattle,WA","lat":"47.7140490","lng":"-122.3125010"}
+,{"aawdt":"31000.0","downtown":false,"stname":"15TH AVE NW,Seattle,WA","lat":"47.6834860","lng":"-122.3767920"}
+,{"aawdt":"24600.0","downtown":false,"stname":"WESTLAKE AVE N,Seattle,WA","lat":"47.6323590","lng":"-122.3409160"}
+,{"aawdt":"11500.0","downtown":false,"stname":"N 40TH ST,Seattle,WA","lat":"47.6553860","lng":"-122.3424550"}
+,{"aawdt":"21600.0","downtown":true,"stname":"1ST AVE,Seattle,WA","lat":"47.6115010","lng":"-122.3433500"}
+,{"aawdt":"20100.0","downtown":false,"stname":"W EMERSON PL,Seattle,WA","lat":"47.6544350","lng":"-122.3814840"}
+,{"aawdt":"17300.0","downtown":false,"stname":"LAKE WASHINGTON BLVD E,Seattle,WA","lat":"47.6281190","lng":"-122.2939990"}
+,{"aawdt":"11700.0","downtown":false,"stname":"PHINNEY AVE N,Seattle,WA","lat":"47.6924210","lng":"-122.3539360"}
+,{"aawdt":"17100.0","downtown":false,"stname":"BROADWAY,Seattle,WA","lat":"47.6253050","lng":"-122.3221830"}
+,{"aawdt":"11400.0","downtown":false,"stname":"BEACON AVE S,Seattle,WA","lat":"47.5341190","lng":"-122.2894400"}
+,{"aawdt":"57200.0","downtown":false,"stname":"BALLARD BR,Seattle,WA","lat":"47.6792170","lng":"-122.3860310"}
+,{"aawdt":"12400.0","downtown":false,"stname":"EAST MARGINAL WAY S,Seattle,WA","lat":"47.5349540","lng":"-122.3143290"}
+,{"aawdt":"20700.0","downtown":false,"stname":"S DEARBORN ST,Seattle,WA","lat":"47.5958820","lng":"-122.3089780"}
+,{"aawdt":"15200.0","downtown":false,"stname":"NE 65TH ST,Seattle,WA","lat":"47.6757900","lng":"-122.2876300"}
+,{"aawdt":"14900.0","downtown":false,"stname":"6TH AVE S,Seattle,WA","lat":"47.5732110","lng":"-122.3259810"}
+,{"aawdt":"9700.0","downtown":false,"stname":"ALKI AVE SW,Seattle,WA","lat":"47.5835740","lng":"-122.4009490"}
+,{"aawdt":"10800.0","downtown":true,"stname":"5TH AVE,Seattle,WA","lat":"47.6106750","lng":"-122.3355830"}
+,{"aawdt":"89400.0","downtown":false,"stname":"1ST AV S BR NB,Seattle,WA","lat":"47.6062090","lng":"-122.3320710"}
+,{"aawdt":"20100.0","downtown":false,"stname":"W EMERSON PL,Seattle,WA","lat":"47.6544350","lng":"-122.3814840"}
+,{"aawdt":"14500.0","downtown":false,"stname":"NW 85TH ST,Seattle,WA","lat":"47.6906020","lng":"-122.3778870"}
+,{"aawdt":"6300.0","downtown":false,"stname":"8TH AVE SW,Seattle,WA","lat":"47.4830110","lng":"-122.3445060"}
+,{"aawdt":"35000.0","downtown":false,"stname":"RAINIER AVE S,Seattle,WA","lat":"47.5448470","lng":"-122.2744970"}
+,{"aawdt":"22000.0","downtown":false,"stname":"4TH AVE S,Seattle,WA","lat":"47.6016390","lng":"-122.3289880"}
+,{"aawdt":"10800.0","downtown":true,"stname":"ALASKAN WAY,Seattle,WA","lat":"47.6091000","lng":"-122.3448500"}
+,{"aawdt":"8600.0","downtown":false,"stname":"PINEHURST WAY NE,Seattle,WA","lat":"47.7142140","lng":"-122.3126460"}
+,{"aawdt":"20600.0","downtown":false,"stname":"35TH AVE SW,Seattle,WA","lat":"47.5366640","lng":"-122.3765920"}
+,{"aawdt":"28500.0","downtown":false,"stname":"LEARY WAY NW,Seattle,WA","lat":"47.6583780","lng":"-122.3641370"}
+,{"aawdt":"40300.0","downtown":false,"stname":"NE 45TH ST,Seattle,WA","lat":"47.6612570","lng":"-122.2986690"}
+,{"aawdt":"17800.0","downtown":false,"stname":"NE NORTHGATE WAY,Seattle,WA","lat":"47.7085420","lng":"-122.3147200"}
+,{"aawdt":"25400.0","downtown":false,"stname":"SW ADMIRAL WAY,Seattle,WA","lat":"47.5792880","lng":"-122.3943990"}
+,{"aawdt":"8200.0","downtown":false,"stname":"3RD AVE NW,Seattle,WA","lat":"47.7160020","lng":"-122.3609340"}
+,{"aawdt":"11700.0","downtown":false,"stname":"ROOSEVELT WAY NE,Seattle,WA","lat":"47.6912790","lng":"-122.3176140"}
+,{"aawdt":"3700.0","downtown":false,"stname":"28TH AVE W,Seattle,WA","lat":"47.6457710","lng":"-122.3929390"}
+,{"aawdt":"23200.0","downtown":true,"stname":"DENNY WAY,Seattle,WA","lat":"47.6185570","lng":"-122.3431810"}
+,{"aawdt":"14400.0","downtown":false,"stname":"EAST MARGINAL WAY S,Seattle,WA","lat":"47.5349540","lng":"-122.3143290"}
+,{"aawdt":"16800.0","downtown":false,"stname":"WESTERN AV OFF RP,Seattle,WA","lat":"47.6062090","lng":"-122.3320710"}
+,{"aawdt":"83700.0","downtown":false,"stname":"AURORA AVE N,Seattle,WA","lat":"47.6981810","lng":"-122.3446000"}
+,{"aawdt":"21300.0","downtown":false,"stname":"RAINIER AVE S,Seattle,WA","lat":"47.5448470","lng":"-122.2744970"}
+,{"aawdt":"12600.0","downtown":false,"stname":"N 130TH ST,Seattle,WA","lat":"47.7232410","lng":"-122.3435570"}
+,{"aawdt":"10500.0","downtown":false,"stname":"15TH AVE NE,Seattle,WA","lat":"47.7140490","lng":"-122.3125010"}
+,{"aawdt":"28400.0","downtown":false,"stname":"OLSON PL SW,Seattle,WA","lat":"47.5197090","lng":"-122.3383570"}
+,{"aawdt":"4600.0","downtown":false,"stname":"31ST AVE S,Seattle,WA","lat":"47.5689040","lng":"-122.2924730"}
+,{"aawdt":"15300.0","downtown":false,"stname":"WEST MARGINAL WAY SW,Seattle,WA","lat":"47.5592230","lng":"-122.3517260"}
+,{"aawdt":"35500.0","downtown":false,"stname":"AURORA AVE N,Seattle,WA","lat":"47.6981810","lng":"-122.3446000"}
+,{"aawdt":"11300.0","downtown":false,"stname":"RENTON AVE S,Seattle,WA","lat":"47.5202590","lng":"-122.2726930"}
+,{"aawdt":"14100.0","downtown":false,"stname":"14TH AVE S,Seattle,WA","lat":"47.5358140","lng":"-122.3140960"}
+,{"aawdt":"25100.0","downtown":false,"stname":"N 85TH ST,Seattle,WA","lat":"47.6905550","lng":"-122.3437660"}
+,{"aawdt":"21100.0","downtown":false,"stname":"DELRIDGE WAY SW,Seattle,WA","lat":"47.5444630","lng":"-122.3613430"}
+,{"aawdt":"12500.0","downtown":false,"stname":"8TH AVE NW,Seattle,WA","lat":"47.6928060","lng":"-122.3659750"}
+,{"aawdt":"7900.0","downtown":true,"stname":"3RD AVE,Seattle,WA","lat":"47.6107410","lng":"-122.3387030"}
+,{"aawdt":"9600.0","downtown":false,"stname":"FREMONT AVE N,Seattle,WA","lat":"47.7123340","lng":"-122.3501870"}
+,{"aawdt":"14400.0","downtown":false,"stname":"STONE WAY N,Seattle,WA","lat":"47.6566520","lng":"-122.3423700"}
+,{"aawdt":"12700.0","downtown":true,"stname":"5TH AVE,Seattle,WA","lat":"47.6106750","lng":"-122.3355830"}
+,{"aawdt":"6700.0","downtown":false,"stname":"20TH AVE W,Seattle,WA","lat":"47.6503320","lng":"-122.3820460"}
+,{"aawdt":"13400.0","downtown":false,"stname":"ALASKAN WY VI SB OFF RP,Seattle,WA","lat":"47.6062090","lng":"-122.3320710"}
+,{"aawdt":"9200.0","downtown":false,"stname":"SW BARTON ST,Seattle,WA","lat":"47.5210480","lng":"-122.3713490"}
+,{"aawdt":"13800.0","downtown":false,"stname":"SAND POINT WAY NE,Seattle,WA","lat":"47.6930530","lng":"-122.2717520"}
+,{"aawdt":"8900.0","downtown":false,"stname":"E UNION ST,Seattle,WA","lat":"47.6128970","lng":"-122.3081970"}
+,{"aawdt":"19600.0","downtown":false,"stname":"N 130TH ST,Seattle,WA","lat":"47.7232410","lng":"-122.3435570"}
+,{"aawdt":"12200.0","downtown":false,"stname":"E JOHN ST,Seattle,WA","lat":"47.6202080","lng":"-122.3051900"}
+,{"aawdt":"7500.0","downtown":false,"stname":"RENTON AVE S,Seattle,WA","lat":"47.5202590","lng":"-122.2726930"}
+,{"aawdt":"9800.0","downtown":true,"stname":"COLUMBIA ST ON RP,Seattle,WA","lat":"47.6062090","lng":"-122.3320710"}
+,{"aawdt":"23800.0","downtown":true,"stname":"DENNY WAY,Seattle,WA","lat":"47.6185570","lng":"-122.3431810"}
+,{"aawdt":"17100.0","downtown":false,"stname":"5TH AVE NE,Seattle,WA","lat":"47.7156560","lng":"-122.3234840"}
+,{"aawdt":"12600.0","downtown":false,"stname":"N 145TH ST,Seattle,WA","lat":"47.7340910","lng":"-122.3439950"}
+,{"aawdt":"13800.0","downtown":false,"stname":"SW AVALON WAY,Seattle,WA","lat":"47.5674090","lng":"-122.3709460"}
+,{"aawdt":"30500.0","downtown":true,"stname":"DENNY WAY,Seattle,WA","lat":"47.6185570","lng":"-122.3431810"}
+,{"aawdt":"9100.0","downtown":false,"stname":"N 125TH ST,Seattle,WA","lat":"47.7195770","lng":"-122.3470840"}
+,{"aawdt":"20500.0","downtown":false,"stname":"W DRAVUS ST,Seattle,WA","lat":"47.6484480","lng":"-122.3867220"}
+,{"aawdt":"3400.0","downtown":true,"stname":"8TH AVE,Seattle,WA","lat":"47.6106430","lng":"-122.3309090"}
+,{"aawdt":"7500.0","downtown":false,"stname":"12TH AVE E,Seattle,WA","lat":"47.6284400","lng":"-122.3167750"}
+,{"aawdt":"9300.0","downtown":false,"stname":"11TH AVE NE,Seattle,WA","lat":"47.7176330","lng":"-122.3161070"}
+,{"aawdt":"19400.0","downtown":false,"stname":"NE 75TH ST,Seattle,WA","lat":"47.6830490","lng":"-122.2958440"}
+,{"aawdt":"58900.0","downtown":false,"stname":"MONTLAKE BR,Seattle,WA","lat":"47.6416760","lng":"-122.3050100"}
+,{"aawdt":"25800.0","downtown":false,"stname":"4TH AVE S,Seattle,WA","lat":"47.6016390","lng":"-122.3289880"}
+,{"aawdt":"89400.0","downtown":false,"stname":"1ST AV S BR NB,Seattle,WA","lat":"47.6062090","lng":"-122.3320710"}
+,{"aawdt":"9700.0","downtown":false,"stname":"S JACKSON ST,Seattle,WA","lat":"47.5992240","lng":"-122.3115780"}
+,{"aawdt":"7400.0","downtown":true,"stname":"6TH AVE,Seattle,WA","lat":"47.6056050","lng":"-122.3293650"}
+,{"aawdt":"13800.0","downtown":false,"stname":"SAND POINT WAY NE,Seattle,WA","lat":"47.6930530","lng":"-122.2717520"}
+,{"aawdt":"13600.0","downtown":false,"stname":"EAST GREEN LAKE DR N,Seattle,WA","lat":"47.6825790","lng":"-122.3315780"}
+,{"aawdt":"21600.0","downtown":false,"stname":"NE 75TH ST,Seattle,WA","lat":"47.6830490","lng":"-122.2958440"}
+,{"aawdt":"4000.0","downtown":false,"stname":"MERIDIAN AVE N,Seattle,WA","lat":"47.7122890","lng":"-122.3340380"}
+,{"aawdt":"28700.0","downtown":false,"stname":"HOLMAN RD NW,Seattle,WA","lat":"47.6987680","lng":"-122.3678900"}
+,{"aawdt":"4600.0","downtown":false,"stname":"BEACH DR SW,Seattle,WA","lat":"47.5584470","lng":"-122.4018700"}
+,{"aawdt":"8600.0","downtown":false,"stname":"15TH AVE NE,Seattle,WA","lat":"47.7140490","lng":"-122.3125010"}
+,{"aawdt":"13700.0","downtown":false,"stname":"E MADISON ST,Seattle,WA","lat":"47.6228650","lng":"-122.2970750"}
+,{"aawdt":"18600.0","downtown":false,"stname":"RAINIER AVE S,Seattle,WA","lat":"47.5448470","lng":"-122.2744970"}
+,{"aawdt":"22400.0","downtown":false,"stname":"E MADISON ST,Seattle,WA","lat":"47.6228650","lng":"-122.2970750"}
+,{"aawdt":"25300.0","downtown":false,"stname":"15TH AVE S,Seattle,WA","lat":"47.5520480","lng":"-122.3135060"}
+,{"aawdt":"12700.0","downtown":false,"stname":"5TH AVE NE,Seattle,WA","lat":"47.7156560","lng":"-122.3234840"}
+,{"aawdt":"5800.0","downtown":false,"stname":"MYERS WAY S,Seattle,WA","lat":"47.5137850","lng":"-122.3301650"}
+,{"aawdt":"22900.0","downtown":false,"stname":"NE 50TH ST,Seattle,WA","lat":"47.6648870","lng":"-122.2956380"}
+,{"aawdt":"18300.0","downtown":false,"stname":"16TH AVE S,Seattle,WA","lat":"47.5343140","lng":"-122.3132060"}
+,{"aawdt":"28600.0","downtown":false,"stname":"UNIVERSITY BR,Seattle,WA","lat":"47.6530250","lng":"-122.3201080"}
+,{"aawdt":"6800.0","downtown":true,"stname":"WESTERN AVE,Seattle,WA","lat":"47.6111660","lng":"-122.3448460"}
+,{"aawdt":"13500.0","downtown":false,"stname":"M L KING JR WAY,Seattle,WA","lat":"47.5371040","lng":"-122.2809420"}
+,{"aawdt":"36300.0","downtown":false,"stname":"MERCER ST,Seattle,WA","lat":"47.6244950","lng":"-122.3430430"}
+,{"aawdt":"15700.0","downtown":false,"stname":"SW ROXBURY ST,Seattle,WA","lat":"47.5173790","lng":"-122.3652210"}
+,{"aawdt":"16000.0","downtown":false,"stname":"NE 125TH ST,Seattle,WA","lat":"47.7193410","lng":"-122.3041980"}
+,{"aawdt":"47800.0","downtown":false,"stname":"MONTLAKE BLVD NE,Seattle,WA","lat":"47.6550170","lng":"-122.3023280"}
+,{"aawdt":"8600.0","downtown":false,"stname":"S OTHELLO ST,Seattle,WA","lat":"47.5370230","lng":"-122.2930350"}
+,{"aawdt":"37000.0","downtown":false,"stname":"S MICHIGAN ST,Seattle,WA","lat":"47.5457050","lng":"-122.3281900"}
+,{"aawdt":"12200.0","downtown":false,"stname":"GILMAN AVE W,Seattle,WA","lat":"47.6563970","lng":"-122.3870940"}
+,{"aawdt":"21500.0","downtown":false,"stname":"RAINIER AVE S,Seattle,WA","lat":"47.5448470","lng":"-122.2744970"}
+,{"aawdt":"11400.0","downtown":false,"stname":"NE PACIFIC ST,Seattle,WA","lat":"47.6535790","lng":"-122.3167030"}
+,{"aawdt":"7300.0","downtown":false,"stname":"S LUCILE ST,Seattle,WA","lat":"47.5523040","lng":"-122.3008470"}
+,{"aawdt":"27300.0","downtown":false,"stname":"N NORTHGATE WAY,Seattle,WA","lat":"47.7084030","lng":"-122.3347490"}
+,{"aawdt":"5900.0","downtown":false,"stname":"30TH AVE NE,Seattle,WA","lat":"47.7207440","lng":"-122.2963090"}
+,{"aawdt":"24200.0","downtown":false,"stname":"NW MARKET ST,Seattle,WA","lat":"47.6686720","lng":"-122.3796230"}
+,{"aawdt":"12900.0","downtown":false,"stname":"BEACON AVE S,Seattle,WA","lat":"47.5341190","lng":"-122.2894400"}
+,{"aawdt":"12200.0","downtown":false,"stname":"S MYRTLE ST,Seattle,WA","lat":"47.5392150","lng":"-122.2995880"}
+,{"aawdt":"15700.0","downtown":false,"stname":"S COLUMBIAN WAY,Seattle,WA","lat":"47.5690990","lng":"-122.3133630"}
+,{"aawdt":"16300.0","downtown":false,"stname":"ELLIOTT AV ON RP,Seattle,WA","lat":"47.6062090","lng":"-122.3320710"}
+,{"aawdt":"11600.0","downtown":false,"stname":"N 50TH ST,Seattle,WA","lat":"47.6650750","lng":"-122.3420970"}
+,{"aawdt":"7200.0","downtown":false,"stname":"15TH AVE NE,Seattle,WA","lat":"47.7140490","lng":"-122.3125010"}
+,{"aawdt":"2200.0","downtown":false,"stname":"8TH AVE S,Seattle,WA","lat":"47.5732860","lng":"-122.3225910"}
+,{"aawdt":"11700.0","downtown":false,"stname":"25TH AVE NE,Seattle,WA","lat":"47.7175090","lng":"-122.3017910"}
+,{"aawdt":"18600.0","downtown":false,"stname":"4TH AVE S,Seattle,WA","lat":"47.6016390","lng":"-122.3289880"}
+,{"aawdt":"14800.0","downtown":true,"stname":"2ND AVE,Seattle,WA","lat":"47.6116180","lng":"-122.3415280"}
+,{"aawdt":"15300.0","downtown":false,"stname":"35TH AVE NE,Seattle,WA","lat":"47.7179320","lng":"-122.2912680"}
+,{"aawdt":"8300.0","downtown":false,"stname":"RENTON AVE S,Seattle,WA","lat":"47.5202590","lng":"-122.2726930"}
+,{"aawdt":"11300.0","downtown":false,"stname":"ROOSEVELT WAY NE,Seattle,WA","lat":"47.6912790","lng":"-122.3176140"}
+,{"aawdt":"10600.0","downtown":true,"stname":"SENECA ST OFF RP,Seattle,WA","lat":"47.6062090","lng":"-122.3320710"}
+,{"aawdt":"40400.0","downtown":false,"stname":"VALLEY ST,Seattle,WA","lat":"47.6262740","lng":"-122.3435170"}
+,{"aawdt":"10700.0","downtown":false,"stname":"NE 125TH ST,Seattle,WA","lat":"47.7193410","lng":"-122.3041980"}
+,{"aawdt":"8700.0","downtown":false,"stname":"CORSON AVE S,Seattle,WA","lat":"47.5513730","lng":"-122.3201380"}
+,{"aawdt":"13600.0","downtown":true,"stname":"4TH AVE,Seattle,WA","lat":"44.1111730,-113.6026040"}
+,{"aawdt":"14900.0","downtown":false,"stname":"N 80TH ST,Seattle,WA","lat":"47.6869280","lng":"-122.3429100"}
+,{"aawdt":"14400.0","downtown":false,"stname":"CALIFORNIA AVE SW,Seattle,WA","lat":"47.5503010","lng":"-122.3871000"}
+,{"aawdt":"14900.0","downtown":false,"stname":"E MADISON ST,Seattle,WA","lat":"47.6228650","lng":"-122.2970750"}
+,{"aawdt":"36600.0","downtown":false,"stname":"S COLUMBIAN WAY,Seattle,WA","lat":"47.5690990","lng":"-122.3133630"}
+,{"aawdt":"7400.0","downtown":false,"stname":"S HOLGATE BR,Seattle,WA","lat":"47.5863640","lng":"-122.3146910"}
+,{"aawdt":"10200.0","downtown":false,"stname":"ALASKAN WY VI NB ON RP,Seattle,WA","lat":"47.6062090","lng":"-122.3320710"}
+,{"aawdt":"5000.0","downtown":false,"stname":"34TH AVE W,Seattle,WA","lat":"47.6504510","lng":"-122.4009180"}
+,{"aawdt":"22800.0","downtown":false,"stname":"GREENWOOD AVE N,Seattle,WA","lat":"47.7150660","lng":"-122.3555320"}
+,{"aawdt":"83700.0","downtown":false,"stname":"AURORA AVE N,Seattle,WA","lat":"47.6981810","lng":"-122.3446000"}
+,{"aawdt":"13800.0","downtown":false,"stname":"S LANDER ST,Seattle,WA","lat":"47.5794750","lng":"-122.3154000"}
+,{"aawdt":"12900.0","downtown":true,"stname":"6TH AVE,Seattle,WA","lat":"47.6056050","lng":"-122.3293650"}
+,{"aawdt":"27400.0","downtown":false,"stname":"RAINIER AVE S,Seattle,WA","lat":"47.5448470","lng":"-122.2744970"}
+,{"aawdt":"16100.0","downtown":false,"stname":"NE 65TH ST,Seattle,WA","lat":"47.6757900","lng":"-122.2876300"}
+,{"aawdt":"12800.0","downtown":false,"stname":"15TH AVE NE,Seattle,WA","lat":"47.7140490","lng":"-122.3125010"}
+,{"aawdt":"8300.0","downtown":false,"stname":"3RD AVE NW,Seattle,WA","lat":"47.7160020","lng":"-122.3609340"}
+,{"aawdt":"81700.0","downtown":false,"stname":"AURORA BR,Seattle,WA","lat":"47.6981810","lng":"-122.3446000"}
+,{"aawdt":"30300.0","downtown":false,"stname":"NE 145TH ST,Seattle,WA","lat":"47.7338890","lng":"-122.3073380"}
+,{"aawdt":"18600.0","downtown":false,"stname":"25TH AVE NE,Seattle,WA","lat":"47.7175090","lng":"-122.3017910"}
+,{"aawdt":"8000.0","downtown":false,"stname":"SWIFT AVE S,Seattle,WA","lat":"47.5448720","lng":"-122.3055820"}
+,{"aawdt":"15100.0","downtown":false,"stname":"EASTLAKE AVE E,Seattle,WA","lat":"47.6354030","lng":"-122.3254190"}
+,{"aawdt":"4900.0","downtown":false,"stname":"16TH AVE SW,Seattle,WA","lat":"47.5158680","lng":"-122.3551440"}
+,{"aawdt":"25300.0","downtown":false,"stname":"CORSON AVE S,Seattle,WA","lat":"47.5513730","lng":"-122.3201380"}
+,{"aawdt":"15100.0","downtown":true,"stname":"1ST AVE,Seattle,WA","lat":"47.6115010","lng":"-122.3433500"}
+,{"aawdt":"20500.0","downtown":false,"stname":"24TH AVE E,Seattle,WA","lat":"47.6322860","lng":"-122.3016040"}
+,{"aawdt":"35400.0","downtown":false,"stname":"LAKE CITY WAY NE,Seattle,WA","lat":"47.7074460","lng":"-122.3015660"}
+,{"aawdt":"8800.0","downtown":false,"stname":"SW 106TH ST,Seattle,WA","lat":"47.5085860","lng":"-122.3604630"}
+,{"aawdt":"6500.0","downtown":false,"stname":"M L KING JR WAY E,Seattle,WA","lat":"47.6211360","lng":"-122.2960830"}
+,{"aawdt":"37300.0","downtown":false,"stname":"LAKE CITY WAY NE,Seattle,WA","lat":"47.7074460","lng":"-122.3015660"}
+,{"aawdt":"19200.0","downtown":false,"stname":"12TH AVE S,Seattle,WA","lat":"47.4805000","lng":"-122.3180220"}
+,{"aawdt":"9700.0","downtown":true,"stname":"WESTERN AVE,Seattle,WA","lat":"47.6111660","lng":"-122.3448460"}
+,{"aawdt":"9400.0","downtown":false,"stname":"ELLIS AVE S,Seattle,WA","lat":"47.5439510","lng":"-122.3189010"}
+,{"aawdt":"22000.0","downtown":false,"stname":"NICKERSON ST,Seattle,WA","lat":"47.6477970","lng":"-122.3533700"}
+,{"aawdt":"15600.0","downtown":false,"stname":"35TH AVE SW,Seattle,WA","lat":"47.5366640","lng":"-122.3765920"}
+,{"aawdt":"12700.0","downtown":true,"stname":"ALASKAN WAY S,Seattle,WA","lat":"47.6038860","lng":"-122.3381830"}
+,{"aawdt":"20200.0","downtown":false,"stname":"BOREN AVE,Seattle,WA","lat":"47.6102930","lng":"-122.3260930"}
+,{"aawdt":"13500.0","downtown":false,"stname":"CALIFORNIA AVE SW,Seattle,WA","lat":"47.5503010","lng":"-122.3871000"}
+,{"aawdt":"6800.0","downtown":true,"stname":"WESTERN AVE,Seattle,WA","lat":"47.6111660","lng":"-122.3448460"}
+,{"aawdt":"12300.0","downtown":true,"stname":"ALASKAN WAY,Seattle,WA","lat":"47.6091000","lng":"-122.3448500"}
+,{"aawdt":"23600.0","downtown":false,"stname":"35TH AVE SW,Seattle,WA","lat":"47.5366640","lng":"-122.3765920"}
+,{"aawdt":"28800.0","downtown":false,"stname":"FREMONT BR,Seattle,WA","lat":"47.6541770","lng":"-122.3500000"}
+,{"aawdt":"28100.0","downtown":false,"stname":"M L KING JR WAY S,Seattle,WA","lat":"47.5371040","lng":"-122.2809420"}
+,{"aawdt":"10300.0","downtown":false,"stname":"S HENDERSON ST,Seattle,WA","lat":"47.5230860","lng":"-122.3117790"}
+,{"aawdt":"10900.0","downtown":false,"stname":"S GRAHAM ST,Seattle,WA","lat":"47.5460910","lng":"-122.2884680"}
+,{"aawdt":"29600.0","downtown":false,"stname":"RAINIER AVE S,Seattle,WA","lat":"47.5448470","lng":"-122.2744970"}
+,{"aawdt":"14100.0","downtown":false,"stname":"S JACKSON ST,Seattle,WA","lat":"47.5992240","lng":"-122.3115780"}
+,{"aawdt":"36600.0","downtown":false,"stname":"S COLUMBIAN WAY,Seattle,WA","lat":"47.5690990","lng":"-122.3133630"}
+,{"aawdt":"17800.0","downtown":false,"stname":"NORTHGATE WAY W/O 15TH AVE NE,Seattle,WA","lat":"47.7086030","lng":"-122.3135830"}
+,{"aawdt":"9600.0","downtown":false,"stname":"ROOSEVELT WAY NE,Seattle,WA","lat":"47.6912790","lng":"-122.3176140"}]
